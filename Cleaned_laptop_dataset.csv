@@ -1,0 +1,1242 @@
+id,Company,TypeName,Inches,cpu_brand,cpu_family,cpu_speed_ghz,cpu_model,Ram,memory_type,primary_storage,secondary_storage,gpu_brand,gpu_name,OpSys,Weight,Price,ScreenWidth,ScreenHeight,ips_panel,retina_display,resolution_category,touchscreen
+0,Apple,Ultrabook,13.3,intel,core,2.30,i5,8,ssd,128,0,Intel," Iris Plus Graphics 640",mac,1.37,71379,2560,1600,yes,yes,other,no
+1,Apple,Ultrabook,13.3,intel,core,1.80,i5,8,flash_storage,128,0,Intel," HD Graphics 6000",mac,1.34,47896,1440,900,no,no,other,no
+2,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",na,1.86,30636,1920,1080,no,no,"full hd",no
+3,Apple,Ultrabook,15.4,intel,core,2.70,i7,16,ssd,512,0,AMD," Radeon Pro 455",mac,1.83,135195,2880,1800,yes,yes,other,no
+4,Apple,Ultrabook,13.3,intel,core,3.10,i5,8,ssd,256,0,Intel," Iris Plus Graphics 650",mac,1.37,96096,2560,1600,yes,yes,other,no
+5,Acer,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,hdd,500,0,AMD," Radeon R5",windows,2.10,21312,1366,768,no,no,other,no
+6,Apple,Ultrabook,15.4,intel,core,2.20,i7,16,flash_storage,256,0,Intel," Iris Pro Graphics",mac,2.04,114018,2880,1800,yes,yes,other,no
+7,Apple,Ultrabook,13.3,intel,core,1.80,i5,8,flash_storage,256,0,Intel," HD Graphics 6000",mac,1.34,61736,1440,900,no,no,other,no
+8,Asus,Ultrabook,14,intel,core,1.80,"i7 8550u",16,ssd,512,0,Nvidia," GeForce MX150",windows,1.30,79654,1920,1080,no,no,"full hd",no
+9,Acer,Ultrabook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.60,41026,1920,1080,yes,no,"full hd",no
+10,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",na,1.86,20987,1366,768,no,no,other,no
+11,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",na,1.86,18381,1920,1080,no,no,"full hd",no
+12,Apple,Ultrabook,15.4,intel,core,2.80,i7,16,ssd,256,0,AMD," Radeon Pro 555",mac,1.83,130002,2880,1800,yes,yes,other,no
+13,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,256,0,AMD," Radeon R5 M430",windows,2.20,26581,1920,1080,no,no,"full hd",no
+14,Apple,Ultrabook,12,intel,core,1.20,"m m3",8,ssd,256,0,Intel," HD Graphics 615",mac,0.92,67261,2304,1440,yes,yes,other,no
+15,Apple,Ultrabook,13.3,intel,core,2.30,i5,8,ssd,256,0,Intel," Iris Plus Graphics 640",mac,1.37,80908,2560,1600,yes,yes,other,no
+16,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,AMD," Radeon R5 M430",windows,2.20,39694,1920,1080,no,no,"full hd",no
+17,Apple,Ultrabook,15.4,intel,core,2.90,i7,16,ssd,512,0,AMD," Radeon Pro 560",mac,1.83,152274,2880,1800,yes,yes,other,no
+18,Lenovo,Notebook,15.6,intel,core,2.40,"i3 7100u",8,hdd,1,0,Nvidia," GeForce 940MX",na,2.20,26587,1920,1080,no,no,"full hd",no
+19,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,128,0,Intel," UHD Graphics 620",windows,1.22,52161,1920,1080,yes,no,"full hd",yes
+21,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.50,53227,1920,1080,yes,no,"full hd",no
+22,HP,Notebook,15.6,amd,e-series,1.50,e2-9000e,4,hdd,500,0,AMD," Radeon R2",na,1.86,13746,1366,768,no,no,other,no
+23,Dell,"2 in 1 Convertible",13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.62,43636,1920,1080,no,no,"full hd",yes
+24,HP,Ultrabook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.91,35112,1920,1080,no,no,"full hd",no
+25,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,2.30,22305,1366,768,no,no,other,no
+26,Apple,Ultrabook,13.3,intel,core,1.60,i5,8,flash_storage,128,0,Intel," HD Graphics 6000",mac,1.35,58555,1440,900,no,no,other,no
+27,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,AMD," Radeon 530",windows,2.20,42624,1920,1080,no,no,"full hd",no
+28,Dell,Ultrabook,15.6,intel,core,1.90,"i7 8650u",8,ssd,256,256,Intel," UHD Graphics 620",windows,1.88,69157,1920,1080,no,no,"full hd",no
+29,HP,Notebook,17.3,intel,core,1.60,"i5 8250u",8,hdd,1,0,Nvidia," GeForce 930MX",windows,2.50,47739,1920,1080,no,no,"full hd",no
+30,Chuwi,Notebook,15.6,intel,atom,1.44,x5-z8300,4,flash_storage,64,0,Intel," HD Graphics",windows,1.89,13053,1920,1080,no,no,"full hd",no
+31,Asus,Notebook,14,amd,e-series,1.50,e2-6110,2,flash_storage,32,0,AMD," Radeon R2",windows,1.65,10603,1366,768,no,no,other,no
+32,HP,Notebook,17.3,amd,a-series,2.50,"amd a6-series 9220",4,hdd,500,0,AMD," Radeon 530",windows,2.71,23390,1920,1080,no,no,"full hd",no
+33,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",16,ssd,512,0,Intel," UHD Graphics 620",windows,1.20,99580,3200,1800,no,no,"quad hd",yes
+34,Apple,Ultrabook,13.3,intel,core,1.60,i5,8,flash_storage,256,0,Intel," HD Graphics 6000",mac,1.35,53173,1440,900,no,no,other,no
+35,Lenovo,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,64,0,Intel," HD Graphics 500",windows,1.44,13267,1366,768,no,no,other,no
+36,Acer,Notebook,15.6,intel,core,2.70,"i3 7130u",4,hdd,1,0,Intel," HD Graphics 620",linux,2.10,19554,1366,768,no,no,other,no
+37,Dell,Notebook,17.3,intel,core,1.60,"i5 8250u",8,hybrid,128,1,AMD," Radeon 530",windows,2.80,52161,1920,1080,yes,no,"full hd",no
+38,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics 620",windows,1.86,26037,1366,768,no,no,other,no
+39,HP,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,Nvidia," GeForce 930MX ",windows,2.10,46833,1920,1080,no,no,"full hd",no
+40,Asus,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 620",linux,2.00,20726,1920,1080,no,no,"full hd",no
+41,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.65,79867,1920,1080,yes,no,"full hd",no
+42,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Nvidia," GeForce 940MX",linux,2.30,27865,1366,768,no,no,other,no
+43,Acer,Notebook,15.6,intel,core,1.60,"i5 8250u",4,ssd,256,0,Intel," UHD Graphics 620",windows,2.20,36337,1920,1080,yes,no,"full hd",no
+44,Dell,"2 in 1 Convertible",17.3,intel,core,1.60,"i5 8250u",12,hdd,1,0,Nvidia," GeForce 150MX",windows,2.77,53227,1920,1080,no,no,"full hd",yes
+45,Apple,Ultrabook,13.3,intel,core,2.00,i5,8,ssd,256,0,Intel," Iris Graphics 540",mac,1.37,75604,2560,1600,yes,yes,other,no
+47,Asus,Gaming,17.3,amd,ryzen,3.00,1700,8,hybrid,256,1,AMD," Radeon RX 580",windows,3.20,69211,1920,1080,no,no,"full hd",no
+48,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,AMD," Radeon R5 M430",windows,2.30,34046,1920,1080,no,no,"full hd",no
+49,Asus,Notebook,17.3,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Nvidia," GeForce 920MX",windows,2.80,24828,1366,768,no,no,other,no
+51,Acer,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Nvidia," GeForce MX150",windows,2.20,44808,1920,1080,yes,no,"full hd",no
+52,HP,Notebook,15.6,amd,a-series,2.50,"amd a6-series 9220",4,ssd,256,0,AMD," Radeon R4 Graphics",windows,1.86,21232,1920,1080,no,no,"full hd",no
+53,HP,Notebook,13.3,intel,core,1.80,"i7 8550u",8,ssd,512,0,Intel," UHD Graphics 620",windows,1.49,58768,1920,1080,no,no,"full hd",no
+54,Acer,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.40,20460,1366,768,no,no,other,no
+55,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon 520",windows,2.13,40908,1920,1080,no,no,"full hd",no
+56,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.91,23390,1920,1080,no,no,"full hd",no
+57,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.00,31232,1366,768,no,no,other,no
+58,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,2,Nvidia," GeForce GTX 1070",windows,2.43,130483,1920,1080,no,no,"full hd",no
+59,Asus,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,256,0,Intel," HD Graphics 520",linux,2.00,22111,1920,1080,no,no,"full hd",no
+60,Dell,Notebook,17.3,intel,core,1.80,"i7 8550u",16,hybrid,256,2,AMD," Radeon 530",windows,2.80,69211,1920,1080,no,no,"full hd",no
+61,Dell,Ultrabook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.70,46833,1920,1080,no,no,"full hd",no
+62,Lenovo,Notebook,14,intel,core,2.70,"i3 7130u",8,ssd,256,0,Intel," HD Graphics 620",na,1.70,31915,1920,1080,yes,no,"full hd",no
+63,Asus,Notebook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.40,50136,1920,1080,no,no,"full hd",no
+64,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.86,36763,1920,1080,no,no,"full hd",no
+65,Asus,Ultrabook,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050 Ti",windows,1.80,105654,1920,1080,no,no,"full hd",no
+66,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,AMD," Radeon 520",windows,1.86,23373,1366,768,no,no,other,no
+67,HP,Notebook,14,intel,celeron,1.60,"dual core n3060",4,ssd,32,0,Intel," HD Graphics 400",windows,1.44,12201,1366,768,no,no,other,no
+68,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics 620",windows,1.90,29251,1920,1080,no,no,"full hd",no
+69,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",12,hdd,1,0,Nvidia," GeForce GTX 1050 Ti",linux,3.00,50563,1920,1080,no,no,"full hd",no
+70,Microsoft,Ultrabook,13.5,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.25,58022,2256,1504,no,no,other,yes
+71,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",64,ssd,256,0,AMD," Radeon 530",windows,1.40,50882,1920,1080,yes,no,"full hd",no
+72,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon 530",windows,2.20,46354,1920,1080,no,no,"full hd",no
+73,MSI,Gaming,17.3,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.70,58342,1920,1080,no,no,"full hd",no
+74,Acer,Notebook,14,intel,core,2.00,"i3 6006u",8,hdd,1,0,Intel," HD Graphics 520",windows,2.10,20726,1366,768,no,no,other,no
+75,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.20,50563,1920,1080,no,no,"full hd",no
+76,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,2,0,Intel," HD Graphics 620",na,2.20,27652,1920,1080,no,no,"full hd",no
+77,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hybrid,128,1,Intel," UHD Graphics 620",windows,2.02,45554,1920,1080,no,no,"full hd",no
+78,Acer,Notebook,15.6,intel,core,2.70,"i3 7130u",4,hdd,1,0,Nvidia," GeForce MX130",windows,2.20,28238,1920,1080,no,no,"full hd",no
+79,HP,Notebook,17.3,intel,core,1.60,"i5 8250u",8,hybrid,128,1,Nvidia," GeForce 930MX",windows,2.50,52055,1920,1080,no,no,"full hd",no
+80,Dell,Ultrabook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.88,58403,1920,1080,yes,no,"full hd",no
+81,Apple,Ultrabook,12,intel,core,1.30,i5,8,ssd,512,0,Intel," HD Graphics 615",mac,0.92,80453,2304,1440,yes,yes,other,no
+82,HP,Notebook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.63,45821,1920,1080,no,no,"full hd",no
+83,Lenovo,Notebook,15.6,amd,a-series,2.50,"amd a6-series 9220",4,ssd,128,0,AMD," R4 Graphics",windows,2.20,21259,1920,1080,no,no,"full hd",no
+84,Acer,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,hdd,1,0,AMD," Radeon R5",windows,2.10,21046,1366,768,no,no,other,no
+85,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.65,71875,1920,1080,yes,no,"full hd",no
+86,HP,Ultrabook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Nvidia," GeForce GTX 940MX",windows,1.83,37243,1920,1080,yes,no,"full hd",no
+87,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.96,31914,1920,1080,no,no,"full hd",no
+88,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.20,77203,1920,1080,yes,no,"full hd",no
+89,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.21,87859,1920,1080,yes,no,"full hd",no
+90,Asus,Gaming,15.6,amd,fx,3.00,9830p,8,hdd,1,0,AMD," Radeon RX 560",windows,2.45,37243,1920,1080,no,no,"full hd",no
+91,Acer,Notebook,15.6,intel,core,1.80,"i7 8550u",2,hdd,1,0,Nvidia," GeForce MX150",windows,2.20,36710,1920,1080,no,no,"full hd",no
+92,HP,Notebook,13.3,intel,core,1.80,"i7 8550u",16,ssd,512,0,Intel," UHD Graphics 620",windows,1.49,63776,1920,1080,no,no,"full hd",no
+93,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1060",windows,2.65,63670,1920,1080,no,no,"full hd",no
+94,Asus,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.25,55891,1920,1080,no,no,"full hd",no
+95,Acer,"2 in 1 Convertible",13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.50,45128,1920,1080,yes,no,"full hd",yes
+96,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,AMD," Radeon R5 M430",linux,2.20,31963,1920,1080,no,no,"full hd",no
+97,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,256,0,AMD," Radeon R5 M430",linux,2.20,25841,1920,1080,no,no,"full hd",no
+98,Asus,Notebook,15.6,intel,core,2.40,"i3 7100u",6,ssd,256,0,Nvidia," GeForce 920M",windows,2.00,30743,1920,1080,no,no,"full hd",no
+99,HP,Gaming,15.6,intel,core,2.80,"i7 7700hq",12,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.62,66547,1920,1080,yes,no,"full hd",no
+100,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,AMD," Radeon 530",windows,1.91,38308,1920,1080,no,no,"full hd",no
+101,HP,Notebook,15.6,amd,e-series,1.50,e2-9000e,4,hdd,500,0,AMD," Radeon R2",windows,2.10,18595,1920,1080,no,no,"full hd",no
+102,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,hdd,1,0,AMD," Radeon 520",linux,2.20,34472,1920,1080,no,no,"full hd",no
+103,HP,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce MX150",windows,1.38,59620,1920,1080,yes,no,"full hd",no
+104,Microsoft,Ultrabook,13.5,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.25,71395,2256,1504,no,no,other,yes
+105,HP,Notebook,14,intel,core,2.50,"i5 7200u",6,ssd,256,0,Nvidia," GeForce 940MX",windows,1.58,35112,1920,1080,yes,no,"full hd",no
+106,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,1.85,22106,1920,1080,no,no,"full hd",no
+107,Asus,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.30,63563,1920,1080,yes,no,"full hd",no
+108,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.20,69211,1920,1080,no,no,"full hd",no
+109,Lenovo,Notebook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.58,78854,1920,1080,yes,no,"full hd",no
+110,Asus,Ultrabook,15.6,intel,core,1.80,"i7 8550u",16,hybrid,256,1,Nvidia," GeForce MX150",windows,1.50,67239,1920,1080,no,no,"full hd",no
+111,Dell,Ultrabook,13.3,intel,core,2.40,"i7 7560u",8,ssd,256,0,Intel," Iris Plus Graphics 640",windows,1.23,73473,3200,1800,no,no,"quad hd",yes
+112,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.37,74539,1920,1080,yes,no,"full hd",yes
+113,HP,Notebook,14,intel,core,1.60,"i5 8250u",4,hdd,500,0,Intel," UHD Graphics 620",windows,1.63,38468,1366,768,yes,no,other,no
+114,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.21,86793,1920,1080,yes,no,"full hd",no
+116,HP,Notebook,14,intel,core,1.80,"i7 8550u",8,ssd,512,0,Intel," UHD Graphics 620",windows,1.63,57756,1920,1080,no,no,"full hd",no
+117,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hybrid,256,1,Nvidia," GeForce 940MX",windows,2.16,60224,1920,1080,yes,no,"full hd",no
+118,Asus,Notebook,17.3,intel,core,2.00,"i3 6006u",4,hdd,1,0,Nvidia," GeForce 920MX",windows,2.00,30050,1920,1080,no,no,"full hd",no
+119,Asus,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.70,59567,1920,1080,no,no,"full hd",no
+120,Acer,Notebook,15.6,intel,core,2.40,"i3 7100u",6,hdd,1,0,Intel," HD Graphics 620",windows,2.10,25521,1920,1080,yes,no,"full hd",yes
+121,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,2,Nvidia," GeForce GTX 1070",windows,1.80,119427,1920,1080,no,no,"full hd",no
+122,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 940MX",na,2.20,33513,1920,1080,no,no,"full hd",no
+123,HP,Notebook,17.3,intel,core,1.80,"i7 8550u",16,ssd,512,0,Nvidia," GeForce 930MX ",windows,2.50,67719,1920,1080,no,no,"full hd",no
+124,Acer,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,ssd,256,0,AMD," Radeon R5",windows,2.10,24029,1366,768,no,no,other,no
+126,HP,Notebook,14,intel,core,1.60,"i5 8250u",8,hdd,1,0,Intel," UHD Graphics 620",windows,1.63,43263,1920,1080,no,no,"full hd",no
+127,Asus,Notebook,14,amd,e-series,1.50,6110,4,ssd,64,0,AMD," Radeon R2",windows,1.65,14811,1366,768,no,no,other,no
+128,Dell,Notebook,17.3,intel,core,1.80,"i7 8550u",16,hybrid,256,2,AMD," Radeon 530",windows,2.80,74379,1920,1080,no,no,"full hd",no
+129,HP,Notebook,17.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,2.50,49444,1920,1080,no,no,"full hd",no
+130,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,AMD," Radeon R7 M445",windows,2.36,34045,1366,768,no,no,other,no
+131,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M430",windows,2.20,23923,1920,1080,no,no,"full hd",no
+132,Acer,Ultrabook,14,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.60,47100,1920,1080,yes,no,"full hd",no
+133,Acer,Notebook,15.6,intel,core,2.70,"i3 7130u",4,ssd,256,0,Nvidia," GeForce MX130",windows,7.20,30476,1920,1080,no,no,"full hd",no
+134,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.05,31861,1366,768,no,no,other,no
+135,HP,Notebook,14,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.63,52641,1920,1080,no,no,"full hd",no
+136,Lenovo,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",na,1.90,13446,1366,768,no,no,other,no
+137,Asus,Gaming,17.3,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,3.00,49977,1920,1080,no,no,"full hd",no
+138,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Nvidia," GeForce 920MX",na,2.20,26587,1920,1080,no,no,"full hd",no
+139,HP,Notebook,13.3,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.32,37243,1920,1080,yes,no,"full hd",no
+140,Acer,Notebook,17.3,intel,core,2.70,"i3 7130u",4,hdd,1,0,Nvidia," GeForce MX130",windows,3.00,34898,1920,1080,yes,no,"full hd",no
+141,Lenovo,Notebook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,AMD," Radeon RX 550",windows,1.75,59462,1920,1080,yes,no,"full hd",no
+142,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GTX 1050M",na,2.40,46300,1920,1080,yes,no,"full hd",no
+143,Toshiba,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.10,32075,1366,768,no,no,other,no
+144,HP,Notebook,15.6,amd,a-series,2.50,"amd a6-series 9220",4,ssd,256,0,AMD," Radeon R4 Graphics",windows,1.86,19660,1366,768,no,no,other,no
+145,Asus,Ultrabook,14,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.25,58555,1920,1080,no,no,"full hd",no
+146,HP,Ultrabook,12.5,intel,core,1.20,"m 6y75",8,ssd,512,0,Intel," HD Graphics 515",windows,0.97,107306,3840,2160,yes,no,"4k ultra hd",yes
+147,Asus,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",windows,2.00,18328,1920,1080,no,no,"full hd",no
+149,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,2.10,23816,1366,768,no,no,other,no
+150,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050",windows,2.56,66561,1920,1080,no,no,"full hd",no
+151,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,1,0,Nvidia," GeForce GTX 1050",windows,2.62,47899,1920,1080,no,no,"full hd",no
+152,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.90,26533,1366,768,no,no,other,no
+153,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.80,100699,1920,1080,no,no,"full hd",no
+154,HP,Ultrabook,14,intel,core,2.70,"i5 7500u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.48,57649,1920,1080,no,no,"full hd",no
+155,HP,Notebook,15.6,intel,core,1.60,"i5 8250u",6,ssd,256,0,AMD," Radeon 520",windows,1.91,32980,1920,1080,no,no,"full hd",no
+156,Lenovo,"2 in 1 Convertible",14,intel,core,2.40,"i3 7100u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.74,33513,1920,1080,yes,no,"full hd",yes
+157,Asus,"2 in 1 Convertible",13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.10,70063,1920,1080,no,no,"full hd",yes
+158,Dell,"2 in 1 Convertible",15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.56,55891,1920,1080,no,no,"full hd",yes
+159,Toshiba,Notebook,15.6,intel,core,2.20,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.10,23816,1366,768,no,no,other,no
+160,Asus,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,hdd,1,0,AMD," Radeon R5 M420",windows,2.03,21472,1366,768,no,no,other,no
+161,Acer,Notebook,17.3,intel,core,1.60,"i5 8250u",4,ssd,256,0,Nvidia," GeForce MX150",windows,3.00,42890,1920,1080,yes,no,"full hd",no
+162,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,AMD," Radeon 520",windows,2.13,38788,1920,1080,no,no,"full hd",no
+163,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,ssd,256,0,Nvidia," GeForce GTX 1050 Ti",windows,2.50,57489,1920,1080,yes,no,"full hd",no
+164,Acer,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",windows,2.10,18541,1366,768,no,no,other,no
+165,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.40,95851,1920,1080,yes,no,"full hd",no
+166,Acer,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Intel," HD Graphics 505",windows,2.10,19368,1366,768,no,no,other,no
+167,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.56,56503,1920,1080,no,no,"full hd",no
+168,Acer,Notebook,17.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Nvidia," GeForce MX150",windows,3.00,45501,1920,1080,yes,no,"full hd",no
+169,HP,Notebook,13.3,intel,core,1.60,"i5 8250u",4,hdd,500,0,Intel," UHD Graphics 620",windows,1.49,40173,1920,1080,yes,no,"full hd",no
+170,Huawei,Ultrabook,13,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.05,71875,2160,1440,yes,no,"full hd",no
+171,HP,Notebook,17.3,intel,core,2.50,"i5 7200u",6,hdd,2,0,AMD," Radeon 520",windows,2.71,37243,1920,1080,yes,no,"full hd",no
+172,Lenovo,Notebook,15.6,amd,a-series,2.90,"amd a6-series 9220",4,hdd,500,0,AMD," Radeon R4 Graphics",na,2.20,16464,1366,768,no,no,other,no
+173,Toshiba,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,5.40,26054,1366,768,no,no,other,no
+174,HP,Notebook,17.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,2.50,49177,1920,1080,no,no,"full hd",no
+175,Dell,Notebook,15.6,intel,core,2.40,"i3 7100u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.30,24456,1366,768,no,no,other,no
+176,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.10,23923,1366,768,no,no,other,no
+177,MSI,Gaming,18.4,intel,core,2.90,"i7 6920hq",32,hybrid,512,1,Nvidia," GTX 980 SLI",windows,4.40,149131,1920,1080,no,no,"full hd",no
+178,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hybrid,128,1,AMD," R17M-M1-70",windows,1.90,43317,1920,1080,no,no,"full hd",no
+179,HP,"2 in 1 Convertible",13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.29,79867,3840,2160,yes,no,"4k ultra hd",yes
+180,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",16,hybrid,256,2,AMD," Radeon 530",linux,2.02,55891,1920,1080,no,no,"full hd",no
+181,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.23,74539,1920,1080,no,no,"full hd",no
+182,Lenovo,"2 in 1 Convertible",13.9,intel,core,1.80,"i7 8550u",16,ssd,512,0,Intel," UHD Graphics 620",windows,1.40,98515,3840,2160,yes,no,"4k ultra hd",yes
+183,Toshiba,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620",windows,2.00,42251,1366,768,no,no,other,no
+184,Xiaomi,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,Nvidia," GeForce MX150",na,1.95,63883,1920,1080,yes,no,"full hd",no
+185,Dell,Notebook,17.3,intel,core,1.80,"i7 8550u",16,ssd,512,0,Nvidia," GeForce 150MX",windows,2.77,82531,1920,1080,no,no,"full hd",yes
+186,Dell,Notebook,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050",windows,2.06,127712,3840,2160,no,no,"4k ultra hd",yes
+187,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",na,2.40,41505,1920,1080,yes,no,"full hd",no
+188,Acer,Ultrabook,13.3,intel,core,1.20,"i5 7y54",8,ssd,256,0,Intel," HD Graphics 615",windows,1.12,52694,1920,1080,yes,no,"full hd",no
+192,Xiaomi,Ultrabook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce MX150",na,1.30,53275,1920,1080,yes,no,"full hd",no
+193,Lenovo,Notebook,17.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Nvidia," GeForce MX150",na,2.80,37189,1600,900,no,no,other,no
+194,Dell,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",8,hdd,1,0,Intel," UHD Graphics 620",windows,1.62,44702,1920,1080,yes,no,"full hd",yes
+195,HP,Notebook,17.3,intel,core,1.60,"i5 8250u",8,hdd,1,0,Nvidia," GeForce 930MX",windows,2.50,48698,1920,1080,yes,no,"full hd",no
+196,Razer,Gaming,17.3,intel,core,2.90,"i7 7820hk",32,ssd,1,0,Nvidia," GeForce GTX 1080",windows,3.49,324955,3840,2160,no,no,"4k ultra hd",yes
+197,HP,Notebook,13.3,intel,core,1.60,"i5 8250u",8,ssd,512,0,Intel," UHD Graphics 620",windows,1.49,51096,1920,1080,no,no,"full hd",no
+198,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050",windows,3.35,73473,1920,1080,yes,no,"full hd",no
+199,HP,Notebook,17.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Nvidia," GeForce 930MX ",windows,2.50,55678,1920,1080,no,no,"full hd",no
+200,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,512,1,Nvidia," GeForce GTX 1060",windows,2.65,98302,3840,2160,yes,no,"4k ultra hd",no
+201,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.10,26267,1366,768,no,no,other,no
+202,Acer,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 940MX",windows,2.23,39534,1920,1080,no,no,"full hd",no
+203,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,512,1,Nvidia," GeForce GTX 1060",windows,3.20,93187,1920,1080,yes,no,"full hd",no
+204,Dell,Workstation,15.6,intel,xeon,3.00,"e3-1505m v6",16,hybrid,256,1,Nvidia," Quadro M1200",windows,2.80,162770,3840,2160,no,no,"4k ultra hd",no
+205,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1060",na,2.40,74485,1920,1080,no,no,"full hd",no
+206,Dell,Notebook,15.6,intel,core,2.40,"i3 7100u",6,hdd,1,0,Intel," HD Graphics 620",windows,2.30,23390,1366,768,no,no,other,yes
+207,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.21,103843,3840,2160,yes,no,"4k ultra hd",yes
+208,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,0.00,77203,1920,1080,no,no,"full hd",no
+210,Acer,Notebook,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",linux,2.40,41505,1920,1080,no,no,"full hd",no
+211,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050",windows,2.90,74965,1920,1080,no,no,"full hd",no
+212,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",na,2.10,18595,1920,1080,no,no,"full hd",no
+213,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",na,2.20,29251,1920,1080,no,no,"full hd",no
+214,Huawei,Ultrabook,13,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.05,79867,2160,1440,yes,no,"full hd",no
+215,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon 530",windows,1.40,49651,1920,1080,yes,no,"full hd",no
+216,Lenovo,Notebook,17.3,intel,core,2.50,"i5 7200u",8,hdd,1,0,Nvidia," GeForce GTX 940MX",na,2.80,31382,1600,900,no,no,other,no
+217,HP,Notebook,14,intel,core,1.80,"i7 8550u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,1.63,54932,1920,1080,no,no,"full hd",no
+218,Dell,Ultrabook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.60,61219,1920,1080,no,no,"full hd",no
+219,Dell,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",16,ssd,512,0,Intel," UHD Graphics 620",windows,1.62,68145,1920,1080,no,no,"full hd",yes
+220,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,AMD," Radeon 520",linux,2.20,36089,1920,1080,no,no,"full hd",no
+221,Lenovo,"2 in 1 Convertible",14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.74,47899,1920,1080,yes,no,"full hd",no
+222,Toshiba,Ultrabook,13.3,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.20,72621,1920,1080,no,no,"full hd",no
+223,HP,Notebook,15.6,intel,core,1.60,"i5 8250u",8,hdd,1,0,Intel," UHD Graphics 620",windows,2.10,42304,1920,1080,no,no,"full hd",no
+224,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,4.42,130874,1920,1080,yes,no,"full hd",no
+225,Acer,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,2.20,44329,1920,1080,no,no,"full hd",no
+226,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",16,hdd,1,0,AMD," Radeon R7 M445",windows,2.30,45768,1920,1080,no,no,"full hd",yes
+227,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 920MX ",windows,2.00,40972,1920,1080,no,no,"full hd",no
+228,Asus,Notebook,17.3,intel,core,2.50,"i5 7200u",8,hybrid,256,500,Nvidia," GeForce GTX 950M",windows,2.69,47472,1920,1080,no,no,"full hd",no
+229,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,AMD," FirePro W4190M ",windows,1.90,67612,1920,1080,no,no,"full hd",no
+230,Asus,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.37,21258,1366,768,no,no,other,no
+231,HP,Notebook,15.6,amd,e-series,1.50,9000e,4,hdd,500,0,AMD," Radeon R2",windows,2.10,17582,1366,768,no,no,other,no
+232,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,3.20,79867,1920,1080,yes,no,"full hd",no
+233,Dell,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.60,45768,1920,1080,no,no,"full hd",no
+234,Acer,"2 in 1 Convertible",13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.60,36710,1920,1080,yes,no,"full hd",yes
+235,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",16,ssd,256,0,AMD," Radeon R7 M445",linux,2.36,47899,1920,1080,no,no,"full hd",no
+236,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",linux,2.10,20779,1366,768,no,no,other,no
+237,Asus,Notebook,15.6,amd,a-series,2.50,"amd a10-series a10-9620p",4,hybrid,128,1,AMD," Radeon R5 M430",windows,2.20,30636,1920,1080,no,no,"full hd",no
+238,Asus,Gaming,17.3,intel,core,2.90,"i7 7820hk",32,hybrid,512,1,Nvidia," GeForce GTX 1080",windows,4.70,207259,1920,1080,no,no,"full hd",no
+239,Acer,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.50,45075,1920,1080,yes,no,"full hd",no
+240,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",8,ssd,128,0,Intel," HD Graphics 520",windows,7.20,31382,1366,768,no,no,other,no
+241,Asus,Notebook,17.3,intel,core,1.80,"i7 8550u",8,hybrid,128,1,Nvidia," GeForce 150MX",windows,2.10,61006,1920,1080,no,no,"full hd",no
+242,Asus,Notebook,17.3,intel,core,2.70,"i7 7500u",8,hybrid,128,1,Nvidia," GeForce GTX 950M",na,2.69,47366,1920,1080,no,no,"full hd",no
+243,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.56,46833,1920,1080,no,no,"full hd",no
+244,Lenovo,"2 in 1 Convertible",13.9,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.38,57489,1920,1080,yes,no,"full hd",yes
+245,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hybrid,128,2,AMD," Radeon 530",windows,2.20,52481,1920,1080,no,no,"full hd",no
+246,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.04,29784,1366,768,no,no,other,yes
+247,Asus,Gaming,17.3,intel,core,2.90,"i7 7820hk",16,ssd,256,0,Nvidia," GeForce GTX 1080",windows,3.60,159787,1920,1080,no,no,"full hd",no
+248,HP,Notebook,13.3,intel,core,1.60,"i5 8250u",4,hdd,500,0,Intel," UHD Graphics 620",windows,1.49,35964,1920,1080,yes,no,"full hd",no
+249,Apple,Ultrabook,13.3,intel,core,3.10,i5,8,ssd,512,0,Intel," Iris Plus Graphics 650",mac,1.37,108691,2560,1600,yes,yes,other,no
+250,Dell,"2 in 1 Convertible",15.6,intel,core,1.80,"i7 8550u",8,hdd,1,0,Intel," UHD Graphics 620",windows,2.08,43636,1920,1080,yes,no,"full hd",yes
+251,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 980M",windows,4.30,95851,1920,1080,no,no,"full hd",no
+252,Asus,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,hdd,1,0,AMD," Radeon R5 M420",windows,1.68,24988,1366,768,no,no,other,no
+253,Lenovo,"2 in 1 Convertible",13.9,intel,core,1.80,"i7 8550u",8,ssd,512,0,Intel," UHD Graphics 620",windows,1.37,98515,1920,1080,yes,no,"full hd",yes
+254,Acer,Notebook,17.3,intel,core,2.70,"i3 7130u",4,ssd,256,0,Nvidia," GeForce MX130",windows,3.00,37403,1920,1080,yes,no,"full hd",no
+255,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.41,50563,1920,1080,no,no,"full hd",no
+256,HP,Notebook,15.6,amd,a-series,2.50,"amd a6-series a6-9220",8,ssd,128,0,AMD," Radeon R4 Graphics",windows,1.91,23758,1366,768,no,no,other,no
+257,HP,Notebook,17.3,intel,core,1.80,"i7 8550u",16,hdd,1,0,Nvidia," GeForce MX150",windows,2.90,56424,1920,1080,yes,no,"full hd",no
+258,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,512,1,Nvidia," GeForce GTX 1070",windows,4.14,133147,1920,1080,no,no,"full hd",no
+259,Lenovo,"2 in 1 Convertible",15.6,intel,core,2.80,"i7 7700hq",8,ssd,512,0,Nvidia," GeForce GTX 1050M",windows,2.00,90523,1920,1080,yes,no,"full hd",yes
+260,Dell,Notebook,17.3,intel,core,1.80,"i7 8550u",8,hybrid,128,1,AMD," Radeon 530",windows,2.80,60846,1920,1080,no,no,"full hd",no
+261,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,256,0,Intel," HD Graphics 520",na,2.20,23656,1920,1080,no,no,"full hd",no
+262,HP,Notebook,15.6,intel,core,1.60,"i5 8250u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.10,38468,1920,1080,yes,no,"full hd",no
+263,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.18,35005,1920,1080,no,no,"full hd",no
+264,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,AMD," Radeon R5 M430",windows,2.24,30103,1920,1080,no,no,"full hd",no
+265,Dell,"2 in 1 Convertible",15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,2.67,42571,1920,1080,no,no,"full hd",yes
+266,Asus,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",8,ssd,512,512,Intel," UHD Graphics 620",windows,4.10,79867,1920,1080,no,no,"full hd",yes
+268,HP,Notebook,17.3,intel,core,1.80,"i7 8550u",8,hdd,1,0,Nvidia," GeForce 930MX ",windows,2.50,54239,1920,1080,no,no,"full hd",no
+269,Lenovo,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,2.05,46886,1920,1080,no,no,"full hd",no
+270,Apple,Ultrabook,13.3,intel,core,2.90,i5,8,ssd,512,0,Intel," Iris Graphics 550",mac,1.37,104370,2560,1600,yes,yes,other,no
+271,Asus,Gaming,17.3,amd,ryzen,3.00,1700,16,hybrid,256,1,AMD," Radeon RX 580",windows,3.20,82531,1920,1080,no,no,"full hd",no
+272,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon 520",linux,2.14,39165,1920,1080,no,no,"full hd",no
+273,Lenovo,"2 in 1 Convertible",14,intel,core,2.60,"i7 6600u",16,ssd,512,0,Intel," HD Graphics 520",windows,1.36,133147,2560,1440,no,no,other,yes
+274,Toshiba,Notebook,15.6,intel,core,2.50,"i7 6500u",8,hdd,500,0,Nvidia," GeForce 930M",windows,2.20,43263,1366,768,no,no,other,no
+275,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",12,hdd,1,0,Intel," HD Graphics 620",windows,2.30,37992,1366,768,no,no,other,no
+276,Dell,Notebook,17.3,intel,core,1.80,"i7 8550u",8,hybrid,128,1,AMD," Radeon 530",linux,2.80,58555,1920,1080,no,no,"full hd",no
+277,Acer,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hdd,1,0,Nvidia," GeForce MX130",windows,2.20,39694,1920,1080,yes,no,"full hd",no
+278,Lenovo,Notebook,17.3,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,2.80,26054,1600,900,no,no,other,no
+279,Lenovo,Notebook,17.3,intel,core,1.80,"i7 8550u",8,hdd,2,0,Nvidia," GeForce MX150",na,2.80,45235,1920,1080,no,no,"full hd",no
+280,Lenovo,Notebook,17.3,intel,core,2.70,"i7 7500u",6,hybrid,128,1,Nvidia," GeForce 940MX",windows,2.80,45768,1600,900,no,no,other,no
+281,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M430",linux,2.25,22804,1920,1080,no,no,"full hd",no
+282,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.50,44169,1920,1080,yes,no,"full hd",no
+283,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",6,ssd,256,0,Intel," HD Graphics 620",windows,2.20,30849,1920,1080,no,no,"full hd",no
+284,Acer,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Nvidia," GeForce MX150",windows,3.00,50669,1920,1080,yes,no,"full hd",no
+285,Acer,Notebook,15.6,intel,core,2.70,"i7 7500u",12,hdd,1,0,Intel," HD Graphics 620",windows,2.15,35112,1920,1080,yes,no,"full hd",yes
+286,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 630",windows,1.95,58448,1920,1080,yes,no,"full hd",no
+287,Asus,Ultrabook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.70,52055,1920,1080,no,no,"full hd",no
+288,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.50,62817,1920,1080,yes,no,"full hd",no
+289,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 940MX",na,2.20,35112,1920,1080,no,no,"full hd",no
+290,Acer,Notebook,15.6,intel,celeron,1.50,"dual core 3205u",2,ssd,16,0,Intel," HD Graphics",chrome,2.19,10603,1366,768,no,no,other,no
+291,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,3.00,63243,1920,1080,no,no,"full hd",no
+292,HP,Notebook,17.3,intel,core,2.00,"i3 6006u",8,hdd,1,0,Intel," HD Graphics 520",windows,2.54,26054,1600,900,no,no,other,no
+293,Dell,Notebook,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.00,97449,1920,1080,no,no,"full hd",no
+294,Lenovo,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,2.05,39374,1920,1080,no,no,"full hd",no
+295,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1060",windows,3.20,69211,1920,1080,yes,no,"full hd",no
+296,Acer,Notebook,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GTX 1050 Ti",linux,2.50,52161,1920,1080,no,no,"full hd",no
+297,Dell,Workstation,17.3,intel,core,2.90,"i7 7820hq",16,ssd,256,0,Nvidia," Quadro M1200",windows,3.42,153705,1920,1080,no,no,"full hd",no
+298,Lenovo,Notebook,15.6,amd,a-series,2.40,"amd a10-series 9600p",6,hdd,1,0,AMD," Radeon R5 430",windows,2.40,26587,1920,1080,no,no,"full hd",no
+299,Asus,Ultrabook,15.6,intel,core,2.70,"i7 7500u",16,ssd,512,0,Nvidia," GeForce 940MX",windows,1.63,78215,1920,1080,no,no,"full hd",no
+300,Asus,Notebook,14,intel,core,2.40,"i3 7100u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.30,27120,1366,768,no,no,other,no
+301,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.90,113060,1920,1080,no,no,"full hd",no
+302,Lenovo,Notebook,17.3,intel,core,2.50,"i5 7200u",6,hdd,1,0,Nvidia," GeForce GTX 940M",windows,5.80,34579,1600,900,no,no,other,no
+303,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,2,0,Nvidia," GeForce 940MX",na,2.20,29251,1366,768,no,no,other,no
+304,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.50,67399,1920,1080,no,no,"full hd",no
+305,Lenovo,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Intel," HD Graphics 505",na,2.20,19180,1366,768,no,no,other,no
+306,HP,"2 in 1 Convertible",13.3,intel,core,2.80,"i7 7600u",16,ssd,256,0,Intel," HD Graphics 620",windows,1.28,105228,1920,1080,no,no,"full hd",yes
+307,Toshiba,Notebook,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,Nvidia," GeForce 930M",windows,2.20,55571,1920,1080,yes,no,"full hd",no
+308,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hybrid,128,1,Nvidia," GeForce 940MX",windows,2.30,43636,1920,1080,no,no,"full hd",no
+309,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,1.86,24988,1920,1080,no,no,"full hd",no
+310,Lenovo,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.10,53227,1920,1080,yes,no,"full hd",no
+311,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",16,ssd,1,0,Intel," UHD Graphics 620",windows,1.21,133147,3840,2160,yes,no,"4k ultra hd",yes
+312,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.80,111835,1920,1080,yes,no,"full hd",no
+313,Acer,Notebook,15.6,amd,a-series,2.20,"amd a8-series 7410",8,ssd,256,0,AMD," Radeon R5",windows,2.23,24988,1920,1080,no,no,"full hd",no
+314,Asus,"2 in 1 Convertible",11.6,intel,celeron,1.10,"dual core n3350",2,flash_storage,32,0,Intel," HD Graphics 500",windows,1.10,14652,1366,768,no,no,other,yes
+315,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,hybrid,128,1,AMD," Radeon 530",windows,2.33,44968,1920,1080,no,no,"full hd",no
+316,HP,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",16,ssd,1,0,Intel," UHD Graphics 620",windows,1.29,130483,3840,2160,yes,no,"4k ultra hd",yes
+317,Lenovo,Notebook,13.3,intel,celeron,1.60,"dual core 3855u",4,flash_storage,16,0,Intel," HD Graphics 510",chrome,1.45,24503,1366,768,no,no,other,no
+318,HP,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.95,52214,1920,1080,no,no,"full hd",no
+319,Acer,Notebook,11.6,intel,pentium,1.60,"quad core n3710",4,flash_storage,128,0,Intel," HD Graphics 405",windows,1.40,25841,1366,768,no,no,other,no
+320,HP,Notebook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.48,68838,1920,1080,no,no,"full hd",no
+321,Lenovo,Notebook,17.3,intel,core,2.50,"i5 7200u",4,hdd,1,0,Nvidia," GeForce 920MX",windows,2.79,31382,1600,900,no,no,other,no
+322,Asus,Notebook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.00,58288,1920,1080,no,no,"full hd",no
+323,HP,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hdd,1,0,Intel," UHD Graphics 620",windows,2.10,48059,1366,768,yes,no,"full hd",no
+324,Acer,Notebook,15.6,amd,a-series,2.70,"amd a12-series 9720p",8,ssd,256,0,AMD," Radeon RX 540",windows,2.20,35112,1366,768,no,no,other,no
+325,Lenovo,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.44,15558,1366,768,no,no,other,no
+326,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",6,hdd,1,0,Intel," HD Graphics 620",windows,8.23,29251,1366,768,no,no,other,no
+327,Asus,Ultrabook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.70,55939,1920,1080,no,no,"full hd",no
+328,HP,Ultrabook,12.5,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.26,71129,1920,1080,no,no,"full hd",no
+329,Dell,Notebook,15.6,intel,core,2.80,"i7 7700hq",32,ssd,1,0,Nvidia," GeForce GTX 1050",windows,2.06,140606,3840,2160,no,no,"4k ultra hd",yes
+330,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.70,63883,1920,1080,no,no,"full hd",no
+331,Toshiba,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.00,50243,1920,1080,yes,no,"full hd",no
+332,Asus,Notebook,14,intel,core,2.70,"i7 7500u",8,hybrid,256,1,Intel," HD Graphics 620",windows,2.00,71076,1920,1080,no,no,"full hd",no
+333,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,1.85,23923,1920,1080,no,no,"full hd",no
+334,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.50,53227,1920,1080,no,no,"full hd",no
+335,HP,Notebook,14,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.48,67559,1920,1080,no,no,"full hd",no
+337,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.84,60952,1920,1080,no,no,"full hd",no
+338,Asus,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",linux,2.00,14651,1366,768,no,no,other,no
+339,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,2.00,60886,1920,1080,no,no,"full hd",no
+340,Dell,Notebook,15.6,intel,celeron,1.60,"dual core n3060",4,hdd,500,0,Intel," HD Graphics",linux,2.20,14647,1366,768,no,no,other,no
+341,Lenovo,Notebook,15.6,amd,a-series,3.60,"amd a12-series 9720p",12,hdd,2,0,AMD," Radeon 530",windows,2.20,47899,1920,1080,no,no,"full hd",no
+342,HP,Notebook,15.6,intel,core,2.40,"i3 7100u",8,hdd,1,0,Nvidia," GeForce 930MX ",windows,2.10,38148,1920,1080,yes,no,"full hd",no
+343,Lenovo,"2 in 1 Convertible",13.9,intel,core,1.80,"i7 8550u",16,ssd,512,0,Intel," UHD Graphics 620",windows,1.40,111835,3840,2160,yes,no,"4k ultra hd",yes
+344,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.20,84129,1920,1080,no,no,"full hd",no
+345,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,2,Nvidia," GeForce GTX 1050 Ti",windows,2.40,60153,1920,1080,yes,no,"full hd",no
+346,HP,Notebook,14,intel,celeron,1.60,"dual core n3060",2,flash_storage,32,0,Intel," HD Graphics 400",windows,1.44,14865,1366,768,no,no,other,no
+347,Dell,Ultrabook,15.6,intel,core,1.90,"i7 8650u",16,ssd,512,256,Intel," UHD Graphics 620",windows,1.88,85672,1920,1080,no,no,"full hd",no
+348,Asus,"2 in 1 Convertible",11.6,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.50,19980,1366,768,no,no,other,yes
+349,Dell,Ultrabook,15.6,intel,core,1.60,"i5 8250u",8,hdd,1,0,AMD," Radeon 530",windows,0.00,35325,1920,1080,no,no,"full hd",no
+351,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.84,69477,1920,1080,no,no,"full hd",no
+352,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.70,75072,1920,1080,no,no,"full hd",no
+353,HP,Workstation,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," Quadro M1200",windows,2.60,92615,1920,1080,no,no,"full hd",no
+354,Toshiba,Notebook,15.6,intel,core,2.50,"i7 6500u",16,ssd,512,0,Nvidia," GeForce 930M",windows,2.40,74752,1920,1080,yes,no,"full hd",no
+355,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hybrid,128,2,AMD," Radeon 530",windows,2.02,51730,1920,1080,no,no,"full hd",no
+356,Lenovo,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",na,2.20,17156,1366,768,no,no,other,no
+357,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.65,53227,1920,1080,no,no,"full hd",no
+358,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,2,0,Intel," HD Graphics 620",windows,2.36,29697,1366,768,no,no,other,yes
+359,Dell,Notebook,14,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,76031,1920,1080,no,no,"full hd",no
+360,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.86,23390,1366,768,no,no,other,no
+361,Asus,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.00,50350,1920,1080,no,no,"full hd",no
+362,Lenovo,Notebook,17.3,intel,core,2.50,"i5 7200u",6,hybrid,128,1,Nvidia," GeForce GTX 940MX",windows,2.80,38308,1600,900,no,no,other,no
+363,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,1.86,34046,1920,1080,no,no,"full hd",no
+364,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",8,ssd,256,0,Nvidia," GeForce 920MX ",na,2.20,26587,1366,768,no,no,other,no
+365,HP,Notebook,15.6,intel,pentium,1.60,"quad core n3710",8,hdd,2,0,Intel," HD Graphics 405",windows,2.04,20726,1366,768,no,no,other,no
+366,Dell,Notebook,17.3,intel,core,1.60,"i5 8250u",8,hybrid,128,1,AMD," Radeon 530",windows,2.80,57809,1920,1080,no,no,"full hd",no
+367,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",na,2.40,43104,1920,1080,yes,no,"full hd",no
+368,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,AMD," Radeon R7 M445",windows,2.33,47899,1920,1080,no,no,"full hd",no
+369,HP,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,93240,1920,1080,yes,no,"full hd",no
+370,Asus,"2 in 1 Convertible",15.6,intel,core,2.70,"i7 7500u",12,hybrid,512,2,Nvidia," GeForce GT 940MX",windows,2.26,58555,1920,1080,no,no,"full hd",yes
+371,Acer,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,ssd,128,0,AMD," Radeon R5",windows,2.10,22697,1366,768,no,no,other,no
+372,Asus,Gaming,17.3,amd,ryzen,3.00,1700,16,hybrid,256,1,AMD," Radeon RX 580",windows,3.25,117163,1920,1080,yes,no,"full hd",no
+373,Lenovo,Notebook,17.3,amd,a-series,2.20,"amd a8-series 7410",4,ssd,128,0,AMD," Radeon R5",windows,2.60,26054,1600,900,no,no,other,no
+374,Dell,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.62,46301,1920,1080,no,no,"full hd",yes
+375,HP,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,ssd,256,0,AMD," Radeon R5",windows,1.91,26053,1920,1080,no,no,"full hd",no
+376,Lenovo,Netbook,11.6,intel,celeron,1.10,"quad core n3450",4,ssd,128,0,Intel," HD Graphics 500",windows,1.59,29464,1366,768,yes,no,other,no
+377,Dell,Notebook,15.6,intel,celeron,1.60,"dual core n3060",4,hdd,500,0,Intel," HD Graphics 400",windows,1.80,16464,1366,768,no,no,other,no
+378,Asus,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.50,15238,1366,768,no,no,other,no
+379,Acer,Notebook,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",linux,2.40,45075,1920,1080,no,no,"full hd",no
+380,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,3.35,63456,1920,1080,yes,no,"full hd",no
+381,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",na,1.85,21498,1920,1080,no,no,"full hd",no
+382,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.30,88178,1920,1080,yes,no,"full hd",no
+383,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.50,58555,1920,1080,yes,no,"full hd",no
+384,Asus,Ultrabook,13.3,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.10,93181,1920,1080,no,no,"full hd",yes
+385,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.13,121585,2560,1440,yes,no,other,no
+386,Lenovo,Notebook,13.3,intel,core,2.40,"i3 7100u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.50,29251,1920,1080,yes,no,"full hd",no
+387,Dell,Workstation,15.6,intel,core,2.60,"i5 6440hq",8,hdd,500,0,AMD," FirePro W5130M",windows,2.23,72940,1920,1080,no,no,"full hd",no
+388,Dell,Workstation,15.6,intel,core,2.70,"i7 6820hq",8,ssd,256,0,Nvidia," Quadro M1200",windows,2.00,113753,1920,1080,yes,no,"full hd",no
+389,Lenovo,"2 in 1 Convertible",14,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.42,133680,2560,1440,no,no,other,yes
+390,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,3.00,55358,1920,1080,no,no,"full hd",no
+391,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,3.00,84768,1920,1080,no,no,"full hd",no
+392,Acer,Notebook,15.6,intel,core,1.60,"i5 8250u",12,hdd,1,0,Nvidia," GeForce MX130",windows,2.20,36976,1366,768,yes,no,other,no
+393,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GTX 1050 Ti",windows,2.70,71875,1920,1080,no,no,"full hd",no
+394,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,AMD," Radeon R7 M445",linux,2.33,41498,1920,1080,no,no,"full hd",no
+395,HP,Ultrabook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,ssd,256,0,AMD," Radeon 520",windows,1.91,26587,1920,1080,no,no,"full hd",no
+396,Lenovo,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon RX 550",windows,2.10,65511,1920,1080,yes,no,"full hd",no
+397,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.90,49977,1920,1080,yes,no,"full hd",no
+398,Dell,Workstation,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," Quadro M1200",windows,1.78,144495,3840,2160,no,no,"4k ultra hd",yes
+399,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",16,ssd,1,0,Intel," HD Graphics 620",windows,1.13,139860,2560,1440,yes,no,other,no
+400,Lenovo,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",windows,2.20,16304,1366,768,no,no,other,no
+401,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050",windows,2.90,81465,1920,1080,no,no,"full hd",no
+402,Lenovo,Notebook,25.6,intel,core,1.60,"i5 8250u",8,hybrid,256,1,AMD," Radeon RX 550",windows,2.10,60979,1920,1080,yes,no,"full hd",no
+403,Acer,Notebook,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",linux,2.50,46833,1920,1080,no,no,"full hd",no
+404,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.80,119827,1920,1080,no,no,"full hd",no
+405,Asus,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.10,99793,1920,1080,no,no,"full hd",no
+406,Toshiba,Ultrabook,13.3,intel,core,2.50,"i7 6500u",16,ssd,512,0,Intel," HD Graphics 520",windows,1.20,93080,1920,1080,no,no,"full hd",no
+407,Dell,Ultrabook,14,intel,core,2.80,"i7 7600u",8,ssd,512,0,Intel," HD Graphics",windows,1.36,89510,1920,1080,no,no,"full hd",no
+408,Lenovo,Notebook,35.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.20,21792,1920,1080,no,no,"full hd",no
+409,Lenovo,Notebook,11.6,intel,celeron,1.10,"dual core n3350",2,flash_storage,32,0,Intel," HD Graphics 500",windows,1.15,16221,1366,768,no,no,other,no
+410,Lenovo,Workstation,15.6,intel,core,2.80,"i7 7700hq",8,ssd,512,0,Nvidia," Quadro M1200",windows,2.67,102564,1920,1080,no,no,"full hd",no
+411,Lenovo,Ultrabook,14,intel,core,2.80,"i7 7700hq",8,ssd,512,0,Nvidia," GeForce GT 940MX",windows,1.70,103523,2560,1440,yes,no,"full hd",no
+412,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon 520",windows,2.10,24988,1920,1080,no,no,"full hd",no
+413,Acer,"2 in 1 Convertible",13.3,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.60,42038,1920,1080,yes,no,"full hd",yes
+414,Asus,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.27,49444,1920,1080,yes,no,"full hd",yes
+415,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,AMD," Radeon R5 M430",linux,2.30,31909,1920,1080,no,no,"full hd",no
+416,Dell,Notebook,13.3,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.65,36710,1366,768,no,no,other,no
+417,HP,Ultrabook,14,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.43,79920,1920,1080,no,no,"full hd",no
+418,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.14,28769,1366,768,no,no,other,no
+419,Lenovo,Ultrabook,14,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon RX 550",windows,1.75,64755,1920,1080,yes,no,"full hd",no
+420,Lenovo,"2 in 1 Convertible",15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050",windows,2.00,101179,3840,2160,yes,no,"4k ultra hd",yes
+421,Chuwi,Notebook,12.3,intel,celeron,1.10,"quad core n3450",6,flash_storage,64,0,Intel," HD Graphics 500",windows,1.40,23923,2736,1824,yes,yes,other,no
+422,HP,Notebook,15.6,intel,core,2.90,"i7 7820hq",8,ssd,256,0,Intel," HD Graphics 630",windows,2.31,76031,1920,1080,no,no,"full hd",no
+423,Asus,Notebook,35.6,intel,core,2.40,"i3 7100u",8,hdd,1,0,Nvidia," GeForce 940MX",linux,2.30,31808,1920,1080,no,no,"full hd",no
+424,Dell,Gaming,27.3,intel,core,2.90,"i7 7820hk",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.42,149131,2560,1440,yes,no,other,no
+425,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.62,61752,1920,1080,yes,no,"full hd",no
+426,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hybrid,256,2,AMD," Radeon 530",windows,2.02,60867,1920,1080,no,no,"full hd",no
+427,Dell,Ultrabook,14,intel,core,2.80,"i7 7600u",8,ssd,256,0,Intel," HD Graphics 620",linux,1.60,58555,1920,1080,no,no,"full hd",no
+428,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",12,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,3.35,106507,1920,1080,no,no,"full hd",no
+429,Mediacom,"2 in 1 Convertible",11.6,intel,celeron,1.10,"dual core n3350",4,ssd,32,0,Intel," HD Graphics 500",windows,1.16,15931,1920,1080,yes,no,"full hd",yes
+430,Samsung,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,16,0,Intel," HD Graphics 400",chrome,1.15,14332,1366,768,no,no,other,no
+431,Lenovo,Notebook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.40,53813,1920,1080,yes,no,"full hd",no
+432,Lenovo,Notebook,14,intel,core,2.70,"i3 7130u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.70,31915,1920,1080,yes,no,"full hd",no
+433,Lenovo,Workstation,15.6,intel,core,2.80,"i7 7600u",16,ssd,512,0,Nvidia," GeForce 940MX",windows,2.30,130270,3840,2160,yes,no,"4k ultra hd",no
+434,Lenovo,Notebook,15.6,intel,core,2.90,"i7 7820hq",16,ssd,512,0,Nvidia," Quadro M2200M",windows,2.50,130483,1920,1080,no,no,"full hd",no
+435,Asus,Gaming,17.3,amd,ryzen,3.20,1600,8,hybrid,256,1,AMD," Radeon RX 580",windows,3.20,90310,1920,1080,no,no,"full hd",no
+436,HP,Notebook,15.6,intel,celeron,1.60,"dual core n3060",4,hdd,500,0,Intel," HD Graphics 400",windows,2.10,18488,1366,768,no,no,other,no
+437,Google,Ultrabook,12.3,intel,core,1.30,"i7 7y75",16,ssd,512,0,Intel," HD Graphics 615",chrome,1.10,117163,2400,1600,no,no,other,yes
+438,Lenovo,Ultrabook,24,intel,core,2.70,"i7 7500u",24,ssd,512,0,Intel," HD Graphics 620",windows,1.32,126913,2560,1440,no,no,other,no
+439,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",linux,2.00,29784,1920,1080,no,no,"full hd",no
+440,Lenovo,Notebook,17.3,amd,a-series,2.50,"amd a6-series 9220",8,hdd,1,0,AMD," Radeon R4",windows,2.80,27652,1600,900,no,no,other,no
+441,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",4,ssd,256,0,AMD," Radeon 530",windows,2.20,39907,1920,1080,no,no,"full hd",no
+442,Lenovo,Ultrabook,12.5,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,76137,1920,1080,yes,no,"full hd",no
+443,Lenovo,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,ssd,128,0,Intel," HD Graphics 505",windows,2.20,18595,1920,1080,no,no,"full hd",no
+444,HP,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,58555,1920,1080,yes,no,"full hd",no
+445,Dell,Notebook,14,intel,core,2.80,"i5 7440hq",8,ssd,256,0,Nvidia," GeForce 930MX",windows,1.64,62817,1920,1080,no,no,"full hd",no
+446,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",linux,2.40,23539,1366,768,no,no,other,no
+447,Dell,Workstation,15.6,intel,xeon,3.00,"e3-1505m v6",8,hdd,64,1,Nvidia," Quadro M620",windows,2.23,106187,1920,1080,no,no,"full hd",no
+448,MSI,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.20,54758,1920,1080,no,no,"full hd",no
+449,Microsoft,Ultrabook,13.5,intel,core,2.50,"i7 7660u",16,ssd,512,0,Intel," Iris Plus Graphics 640",windows,1.25,137942,2256,1504,no,no,other,yes
+450,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620",windows,1.91,31382,1366,768,no,no,other,no
+451,Dell,Workstation,15.6,intel,core,2.70,"i7 6820hq",16,ssd,256,0,Nvidia," Quadro M620",windows,2.17,105228,1920,1080,yes,no,"full hd",no
+452,HP,Workstation,15.6,intel,core,2.90,"i7 7820hq",8,ssd,512,0,Intel," HD Graphics 620",windows,2.31,81732,1920,1080,yes,no,"full hd",no
+453,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.65,71662,1920,1080,no,no,"full hd",no
+454,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,hybrid,128,1,AMD," Radeon 530",windows,2.36,52161,1920,1080,no,no,"full hd",no
+455,Dell,"2 in 1 Convertible",11.6,intel,pentium,1.60,"quad core n3710",4,hdd,500,0,Intel," HD Graphics 405",windows,1.47,25521,1366,768,no,no,other,yes
+456,Dell,Notebook,17.3,intel,core,2.70,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1060",windows,4.42,109011,1920,1080,yes,no,"full hd",no
+457,Microsoft,Ultrabook,13.5,intel,core,2.20,"m m3-7y30",4,ssd,128,0,Intel," HD Graphics 615",windows,1.25,52694,2256,1504,no,no,other,yes
+458,Microsoft,Ultrabook,33.5,intel,core,2.50,"i7 7660u",8,ssd,256,0,Intel," Iris Plus Graphics 640",windows,1.25,95851,2256,1504,no,no,other,yes
+459,HP,Notebook,17.3,intel,core,2.00,"i3 6006u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.50,34094,1600,900,no,no,other,no
+460,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Nvidia," GeForce 940MX",windows,2.23,28984,1920,1080,no,no,"full hd",no
+461,Acer,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,ssd,128,0,Intel," HD Graphics 400",windows,1.40,23177,1366,768,no,no,other,no
+462,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.37,39907,1920,1080,no,no,"full hd",no
+463,Lenovo,Notebook,14,intel,core,2.70,"i7 7500u",8,ssd,512,0,AMD," Radeon R7 M460",na,1.50,42571,1920,1080,yes,no,"full hd",no
+464,Lenovo,Notebook,15.6,intel,core,2.90,"i7 7820hq",8,ssd,256,0,Nvidia," Quadro M2200M",windows,2.67,111355,1920,1080,no,no,"full hd",no
+465,Asus,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,500,0,Intel," HD Graphics 500",windows,2.00,16197,1366,768,no,no,other,no
+466,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Nvidia," GeForce GTX 940MX",windows,2.20,24988,1366,768,no,no,other,no
+467,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,hdd,2,0,AMD," Radeon 530",windows,2.02,40440,1920,1080,no,no,"full hd",no
+468,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",12,hdd,1,0,Nvidia," GeForce GTX 1060",windows,3.78,90523,1920,1080,yes,no,"full hd",no
+469,Lenovo,Ultrabook,14,intel,core,2.60,"i7 6600u",12,ssd,256,0,Intel," HD Graphics 520",windows,1.40,98994,2560,1440,yes,no,"quad hd",no
+470,HP,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",8,ssd,512,0,Intel," UHD Graphics 620",windows,1.29,106507,3840,2160,yes,no,"4k ultra hd",yes
+471,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,500,0,AMD," FirePro W4190M ",windows,1.90,61485,1920,1080,no,no,"full hd",no
+472,Google,Ultrabook,12.3,intel,core,1.20,"i5 7y57",8,ssd,128,0,Intel," HD Graphics 615",chrome,1.10,67932,2400,1600,no,no,other,yes
+473,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.42,98134,1920,1080,no,no,"full hd",yes
+474,Asus,Notebook,15.6,intel,core,2.60,"i7 6700hq",12,hybrid,128,1,Intel," HD Graphics 530",windows,2.06,69211,3840,2160,yes,no,"4k ultra hd",no
+475,Dell,Notebook,14,intel,core,2.30,"i3 6100u",8,ssd,128,0,Intel," HD Graphics 520",windows,1.79,39427,1366,768,no,no,other,no
+477,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,180,0,Intel," HD Graphics 620",windows,1.70,72674,1920,1080,no,no,"full hd",no
+479,Toshiba,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.05,89084,1920,1080,yes,no,"full hd",no
+480,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,512,0,Nvidia," GeForce 940MX",windows,2.16,67239,1920,1080,yes,no,"full hd",no
+481,Dell,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.18,31254,1366,768,no,no,other,no
+482,HP,Notebook,13.3,intel,core,1.60,"i5 8250u",4,ssd,128,0,Intel," UHD Graphics 620",windows,1.49,38681,1920,1080,yes,no,"full hd",no
+483,Chuwi,Notebook,15.6,intel,atom,1.44,x5-z8350,4,flash_storage,64,0,Intel," HD Graphics",windows,1.89,13261,1920,1080,no,no,"full hd",no
+484,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.30,30103,1366,768,no,no,other,no
+485,Lenovo,Notebook,14,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.75,55891,1920,1080,yes,no,"full hd",no
+486,Dell,Workstation,15.6,intel,core,2.70,"i7 6820hq",16,ssd,512,0,Nvidia," Quadro M620",windows,2.17,124569,1920,1080,yes,no,"full hd",no
+487,Dell,Notebook,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050",windows,2.06,101179,1920,1080,no,no,"full hd",no
+488,Lenovo,Ultrabook,12.5,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.36,95797,1920,1080,yes,no,"full hd",no
+489,Asus,Ultrabook,12.5,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,0.91,103896,1920,1080,no,no,"full hd",no
+490,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,2.30,53919,1920,1080,yes,no,"full hd",no
+491,Toshiba,Ultrabook,13.3,intel,core,2.70,"i7 7500u",32,ssd,512,0,Intel," HD Graphics 620",windows,1.05,149131,1920,1080,no,no,"full hd",yes
+492,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,1.99,71928,1920,1080,no,no,"full hd",no
+493,Acer,Notebook,15.6,amd,a-series,2.50,"amd a10-series 9620p",8,hdd,1,0,AMD," Radeon RX 540",windows,2.20,30849,1366,768,no,no,other,no
+494,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",24,hybrid,256,1,Nvidia," GeForce GTX 965M",windows,4.33,67612,1920,1080,yes,no,"full hd",yes
+495,Lenovo,Ultrabook,12.5,intel,core,2.30,"i5 6200u",8,ssd,180,0,Intel," HD Graphics 520",windows,1.30,58555,1366,768,yes,no,other,no
+496,Lenovo,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,2.17,47893,1920,1080,no,no,"full hd",no
+497,HP,Notebook,14,intel,core,2.80,"i7 7600u",8,ssd,1,0,Intel," HD Graphics 620",windows,1.48,93187,1920,1080,no,no,"full hd",no
+498,Lenovo,Notebook,13.3,intel,core,2.40,"i3 7100u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.40,50563,1920,1080,yes,no,"full hd",no
+499,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.30,48538,1920,1080,yes,no,"full hd",no
+500,Asus,Netbook,11.6,intel,celeron,1.10,"dual core n3350",4,flash_storage,64,0,Intel," HD Graphics 500",windows,1.20,18115,1366,768,no,no,other,no
+501,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,AMD," Radeon 520",windows,1.91,32980,1366,768,no,no,other,no
+502,Lenovo,"2 in 1 Convertible",13.9,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.40,85195,1920,1080,yes,no,"full hd",yes
+503,Lenovo,Notebook,14,intel,celeron,1.10,"dual core n3350",4,hdd,500,0,Intel," HD Graphics 500",windows,2.10,15931,1366,768,no,no,other,no
+504,Lenovo,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,ssd,16,0,Intel," HD Graphics 400",chrome,1.25,14119,1366,768,no,no,other,no
+505,Lenovo,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.44,50563,1920,1080,no,no,"full hd",no
+506,Asus,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hybrid,256,1,Intel," HD Graphics 620",windows,2.00,65215,1920,1080,no,no,"full hd",no
+507,Acer,Notebook,15.6,intel,core,1.60,"i5 8250u",4,hdd,1,0,Nvidia," GeForce MX150",windows,2.20,32661,1920,1080,yes,no,"full hd",no
+508,HP,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.34,70489,1920,1080,yes,no,"full hd",no
+509,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,256,1,Nvidia," GeForce GTX 1060",na,2.40,61219,1920,1080,yes,no,"full hd",no
+510,Dell,Ultrabook,13.3,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620",windows,1.29,47899,1920,1080,yes,no,"full hd",yes
+511,Acer,Notebook,15.6,intel,core,2.70,"i7 7500u",4,hdd,500,0,Nvidia," GeForce 940MX",windows,2.20,34046,1920,1080,no,no,"full hd",no
+512,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.18,44542,1920,1080,no,no,"full hd",no
+513,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",16,hybrid,256,2,AMD," Radeon 530",windows,2.20,64961,1920,1080,no,no,"full hd",no
+514,Xiaomi,Notebook,15.6,intel,core,1.80,"i7 8550u",16,ssd,256,0,Nvidia," GeForce MX150",na,1.95,74589,1920,1080,yes,no,"full hd",no
+515,Asus,Netbook,11.6,intel,celeron,1.10,"dual core n3350",2,flash_storage,32,0,Intel," HD Graphics 500",windows,1.10,13054,1366,768,no,no,other,no
+516,HP,Notebook,15.6,intel,core,1.60,"i5 8250u",4,hdd,1,0,Intel," UHD Graphics 620",windows,2.04,27784,1366,768,no,no,other,yes
+517,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",24,ssd,512,0,Nvidia," GeForce GTX1080",windows,2.24,158135,1920,1080,no,no,"full hd",no
+518,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,2.04,47366,1920,1080,no,no,"full hd",no
+519,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX1050 Ti",windows,3.00,80133,1920,1080,no,no,"full hd",no
+520,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,3.20,74539,1920,1080,yes,no,"full hd",no
+521,HP,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.32,74539,1920,1080,yes,no,"full hd",no
+522,Dell,Notebook,14,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.64,68184,1920,1080,no,no,"full hd",no
+523,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.63,36710,1366,768,no,no,other,no
+524,Dell,Notebook,17.3,intel,core,1.60,"i5 8250u",8,hybrid,128,1,AMD," Radeon 530",linux,2.80,47366,1920,1080,yes,no,"full hd",no
+525,Lenovo,Notebook,24,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.02,71395,1920,1080,no,no,"full hd",no
+526,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",4,hdd,1,0,Nvidia," GeForce 920MX",windows,2.20,42571,1920,1080,no,no,"full hd",no
+527,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",8,hdd,2,0,Nvidia," GeForce 920MX ",na,2.20,24456,1366,768,no,no,other,no
+528,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,AMD," Radeon R5 M430",windows,2.30,31169,1920,1080,no,no,"full hd",no
+529,Dell,Notebook,15.6,intel,core,2.80,"i5 7440hq",8,ssd,256,0,Intel," HD Graphics 620",windows,1.90,73367,1920,1080,no,no,"full hd",no
+530,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1070",windows,4.42,160520,1920,1080,yes,no,"full hd",no
+531,Toshiba,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,500,0,Intel," HD Graphics 620",windows,2.00,45821,1920,1080,yes,no,"full hd",no
+532,Asus,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hybrid,256,1,Nvidia," GeForce GTX 960M",windows,2.00,69211,3840,2160,yes,no,"4k ultra hd",no
+533,Mediacom,Notebook,13.3,intel,celeron,1.10,"quad core n3450",4,ssd,32,0,Intel," HD Graphics 500",windows,1.20,19660,1920,1080,yes,no,"full hd",no
+534,Asus,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.30,87859,1920,1080,yes,no,"full hd",no
+535,Dell,Notebook,15.6,intel,core,2.80,"i7 7600u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,1.93,72940,1920,1080,no,no,"full hd",no
+536,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",8,ssd,256,0,AMD," Radeon 530",windows,2.20,42486,1920,1080,no,no,"full hd",no
+537,HP,Notebook,15.6,intel,pentium,1.60,"quad core n3710",4,ssd,256,0,Intel," HD Graphics 405",windows,1.86,21258,1920,1080,no,no,"full hd",no
+538,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",12,hdd,1,0,Nvidia," GeForce GTX 1060",windows,2.62,95851,1920,1080,no,no,"full hd",no
+539,Lenovo,Notebook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.87,45768,1920,1080,yes,no,"full hd",no
+540,Dell,Ultrabook,13.3,intel,core,1.80,"i7 8550u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.20,74539,3200,1800,no,no,"quad hd",yes
+541,Dell,Notebook,14,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.60,39207,1920,1080,no,no,"full hd",no
+542,HP,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.34,61006,3200,1800,yes,no,"quad hd",no
+543,Acer,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",linux,2.40,42517,1920,1080,no,no,"full hd",no
+544,Asus,Notebook,15.6,amd,e-series,1.80,7110,4,hdd,500,0,AMD," Radeon R2 Graphics",windows,2.00,18595,1366,768,no,no,other,no
+545,HP,Notebook,15.6,intel,core,2.40,"i3 7100u",4,ssd,128,0,Intel," HD Graphics 620",windows,2.10,37589,1920,1080,no,no,"full hd",no
+546,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.87,41825,1920,1080,no,no,"full hd",no
+547,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,1,0,Intel," HD Graphics 520",na,2.15,24634,1920,1080,no,no,"full hd",no
+548,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.86,21152,1920,1080,no,no,"full hd",no
+549,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.99,92121,1920,1080,yes,no,"full hd",no
+550,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.20,26587,1920,1080,no,no,"full hd",no
+551,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.90,59513,1920,1080,no,no,"full hd",no
+552,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.42,143803,1920,1080,yes,no,"full hd",no
+553,HP,Notebook,17.3,intel,core,2.00,"i3 6006u",8,hdd,1,0,Intel," HD Graphics 520",windows,2.65,28992,1600,900,no,no,other,no
+554,HP,Notebook,17.3,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 930MX",windows,2.63,68198,1920,1080,no,no,"full hd",no
+555,Asus,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,500,0,Intel," HD Graphics 500",linux,2.00,11935,1366,768,no,no,other,no
+556,Mediacom,Notebook,13.3,intel,atom,1.44,x5-z8350,4,flash_storage,32,0,Intel," HD Graphics",windows,1.35,13586,1920,1080,yes,no,"full hd",no
+557,Lenovo,Notebook,17.3,intel,core,2.70,"i7 7500u",6,hybrid,128,1,Nvidia," GeForce 940MX",windows,2.80,50563,1600,900,no,no,other,no
+558,HP,Notebook,15.6,amd,a-series,2.50,"amd a10-series a10-9620p",6,ssd,128,0,AMD," Radeon 530",windows,1.91,30311,1920,1080,yes,no,"full hd",no
+559,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M420",windows,2.18,32922,1366,768,no,no,other,no
+560,Acer,"2 in 1 Convertible",11.6,intel,celeron,2.00,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.25,18595,1920,1080,yes,no,"full hd",yes
+561,Lenovo,Notebook,15.6,intel,core,2.70,"i3 7130u",4,ssd,128,0,Intel," HD Graphics 620",windows,2.05,33566,1920,1080,no,no,"full hd",no
+562,HP,Ultrabook,13.3,intel,core,1.20,"m 6y75",16,ssd,512,0,Intel," HD Graphics 515",windows,1.16,104695,3200,1800,yes,no,"quad hd",yes
+563,Lenovo,Notebook,17.3,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," Quadro M620M",windows,3.40,159787,1920,1080,yes,no,"full hd",no
+564,Asus,Notebook,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.50,44702,1920,1080,no,no,"full hd",no
+565,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,128,0,Intel," UHD Graphics 620",windows,1.21,85195,3840,2160,yes,no,"4k ultra hd",yes
+566,Dell,Notebook,15.6,intel,core,2.60,"i5 7300u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.93,51096,1366,768,no,no,other,no
+568,Lenovo,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,500,0,Intel," HD Graphics 505",windows,2.20,18328,1920,1080,no,no,"full hd",no
+569,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.02,52747,1366,768,no,no,other,no
+570,HP,Workstation,17.3,intel,core,2.80,"i5 7440hq",8,hdd,500,0,Nvidia," Quadro M1200",windows,3.14,99154,1600,900,no,no,other,no
+571,HP,Notebook,14,intel,pentium,1.60,"quad core n3710",8,hdd,2,0,Intel," HD Graphics 405",windows,1.94,20726,1366,768,no,no,other,no
+572,HP,Notebook,15.6,amd,a-series,3.00,"amd a9-series a9-9420",6,ssd,256,0,AMD," Radeon 530",windows,1.95,34579,1920,1080,yes,no,"full hd",no
+573,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.30,44222,1920,1080,no,no,"full hd",no
+574,Lenovo,Notebook,15.6,intel,core,1.60,"i5 8250u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.05,36497,1920,1080,no,no,"full hd",no
+575,Mediacom,Notebook,14,intel,atom,1.44,x5-z8350,4,ssd,32,0,Intel," HD Graphics",windows,1.40,13267,1920,1080,no,no,"full hd",no
+576,Toshiba,Ultrabook,14,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.24,99367,1920,1080,no,no,"full hd",yes
+577,Lenovo,Gaming,17.3,intel,core,2.70,"i7 6820hk",32,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.60,141885,1920,1080,yes,no,"full hd",no
+578,MSI,Gaming,17.3,intel,core,2.90,"i7 7820hk",16,hybrid,512,1,Nvidia," GeForce GTX 1070",windows,4.14,145401,1920,1080,no,no,"full hd",no
+579,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,AMD," Radeon R5 M430",linux,2.20,39907,1920,1080,no,no,"full hd",no
+580,Mediacom,Notebook,14,intel,celeron,1.10,"quad core n3450",4,ssd,32,0,Intel," HD Graphics 500",windows,1.45,20726,1920,1080,yes,no,"full hd",no
+581,Dell,Notebook,15.6,intel,core,2.60,"i5 7300u",8,hdd,500,0,Intel," HD Graphics 620",windows,1.90,53734,1366,768,no,no,other,no
+582,HP,Notebook,13.3,intel,core,2.40,"i3 7100u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.49,38308,1920,1080,no,no,"full hd",no
+583,Dell,Notebook,15.6,intel,core,2.80,"i7 7600u",16,ssd,256,0,Nvidia," GeForce 930MX",windows,1.93,81912,1920,1080,no,no,"full hd",no
+584,Dell,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,16,0,Intel," HD Graphics 400",chrome,1.26,15718,1366,768,no,no,other,no
+585,MSI,Gaming,17.3,intel,core,2.70,"i7 6820hk",16,hybrid,128,1,Nvidia," GeForce GTX 980M",windows,4.50,125155,1920,1080,no,no,"full hd",no
+586,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050",windows,3.78,79813,1920,1080,yes,no,"full hd",no
+587,Lenovo,Ultrabook,14,intel,core,2.60,"i7 6600u",12,ssd,256,0,Intel," HD Graphics 520",windows,8.40,89137,1920,1080,yes,no,"full hd",no
+588,Lenovo,Notebook,15.6,intel,core,1.80,"i7 8550u",12,hdd,1,0,Intel," HD Graphics 620",windows,2.20,32448,1366,768,no,no,other,yes
+589,Asus,Gaming,17.3,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.73,94306,1920,1080,yes,no,"full hd",no
+590,Asus,"2 in 1 Convertible",15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 520",windows,2.20,39374,1366,768,no,no,other,yes
+591,Lenovo,Notebook,15.6,amd,a-series,3.60,"amd a12-series 9720p",12,ssd,512,0,AMD," Radeon 530",windows,2.20,50563,1920,1080,no,no,"full hd",no
+592,Dell,"2 in 1 Convertible",31.6,intel,core,1.00,"m 7y30",4,ssd,128,0,Intel," HD Graphics 615",windows,1.39,32128,1366,768,no,no,other,yes
+593,Samsung,Notebook,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.50,90523,1920,1080,no,no,"full hd",no
+594,Lenovo,Notebook,17.3,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",na,2.80,28185,1920,1080,no,no,"full hd",no
+595,Lenovo,Notebook,15.6,intel,core,2.30,"i3 6100u",8,hdd,1,0,Intel," HD Graphics 520",windows,2.29,24456,1366,768,no,no,other,no
+596,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.37,107892,1920,1080,yes,no,"full hd",yes
+597,Lenovo,Notebook,14,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Intel," HD Graphics 630",windows,1.70,78535,1920,1080,yes,no,"full hd",no
+598,Dell,"2 in 1 Convertible",12.5,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.34,88978,1920,1080,no,no,"full hd",yes
+599,Dell,Workstation,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," Quadro M620",windows,2.06,93933,1920,1080,no,no,"full hd",yes
+600,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.84,64948,1920,1080,no,no,"full hd",no
+601,HP,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.10,35617,1366,768,no,no,other,no
+602,Acer,Notebook,14,intel,celeron,1.10,"quad core n3450",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.60,17529,1920,1080,no,no,"full hd",no
+603,MSI,Gaming,17.3,intel,core,2.70,"i7 6820hk",16,hybrid,128,1,Nvidia," GeForce GTX 970M",windows,4.14,117163,1920,1080,no,no,"full hd",no
+604,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M420",linux,2.18,24775,1366,768,no,no,other,no
+605,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,2,Nvidia," GeForce GTX 1060",windows,1.80,122491,3840,2160,no,no,"4k ultra hd",no
+606,Toshiba,Notebook,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.20,74539,1920,1080,yes,no,"full hd",no
+607,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",6,hdd,1,0,Intel," HD Graphics 620",windows,2.40,30050,1920,1080,no,no,"full hd",no
+608,Lenovo,"2 in 1 Convertible",15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Intel," HD Graphics 630",windows,2.00,69211,1920,1080,yes,no,"full hd",yes
+609,Acer,Notebook,14,intel,pentium,1.60,"quad core n3710",4,flash_storage,128,0,Intel," HD Graphics 405",windows,1.60,18595,1366,768,no,no,other,no
+610,Lenovo,Notebook,15.6,intel,xeon,3.10,"e3-1535m v6",32,ssd,1,0,Nvidia," Quadro M2200M",windows,2.50,261019,3840,2160,yes,no,"4k ultra hd",no
+611,Dell,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hdd,1,0,Nvidia," GeForce GTX 960<U+039C>",windows,2.59,46834,1920,1080,no,no,"full hd",no
+612,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",linux,2.18,23651,1366,768,no,no,other,no
+613,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",linux,2.25,19128,1366,768,no,no,other,no
+614,Dell,Notebook,15.6,intel,core,2.60,"i5 7300u",4,hdd,500,0,Intel," HD Graphics 620",linux,1.93,46300,1366,768,no,no,other,no
+615,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,3.00,62231,1920,1080,no,no,"full hd",no
+617,HP,Ultrabook,15.6,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.84,74006,1920,1080,no,no,"full hd",no
+618,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.94,120832,1920,1080,no,no,"full hd",no
+619,Acer,"2 in 1 Convertible",11.6,intel,celeron,1.60,"quad core n3160",4,flash_storage,32,0,Intel," HD Graphics 400",chrome,1.25,20193,1366,768,yes,no,other,yes
+620,HP,Notebook,14,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.31,59887,1366,768,no,no,other,no
+621,Lenovo,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.65,78055,1920,1080,no,no,"full hd",no
+622,Dell,Notebook,15.6,intel,core,1.60,"i5 8250u",4,hdd,1,0,AMD," Radeon 530",windows,2.20,41345,1920,1080,no,no,"full hd",no
+623,Fujitsu,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.20,42571,1366,768,no,no,other,no
+624,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.88,49657,1366,768,no,no,other,no
+626,Mediacom,Notebook,14,intel,atom,1.44,x5-z8350,2,flash_storage,32,0,Intel," HD Graphics",windows,1.40,12734,1920,1080,no,no,"full hd",no
+627,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",na,2.20,24935,1920,1080,no,no,"full hd",no
+628,Asus,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",6,hdd,1,0,Intel," HD Graphics 620",windows,1.50,34046,1920,1080,no,no,"full hd",yes
+630,Asus,Ultrabook,14,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,11.10,101232,1920,1080,no,no,"full hd",no
+631,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.62,78801,1920,1080,no,no,"full hd",no
+632,Lenovo,Notebook,15.6,intel,core,1.60,"i5 8250u",4,ssd,256,0,Intel," UHD Graphics 620",windows,1.80,44169,1920,1080,no,no,"full hd",no
+633,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Nvidia," GeForce 920MX ",windows,2.20,30849,1920,1080,no,no,"full hd",no
+634,Asus,Notebook,15.6,intel,celeron,1.10,"dual core n3350",8,hdd,1,0,Intel," HD Graphics 500",windows,2.00,21259,1366,768,no,no,other,no
+635,Asus,Notebook,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,1.99,48305,1920,1080,no,no,"full hd",no
+636,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.23,99580,3200,1800,no,no,"quad hd",yes
+637,Lenovo,Notebook,14,intel,celeron,1.60,"dual core n3060",2,flash_storage,32,0,Intel," HD Graphics 400",windows,1.42,13267,1366,768,no,no,other,no
+638,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.37,93635,1920,1080,yes,no,"full hd",yes
+639,Dell,Notebook,15.6,intel,core,2.80,"i7 7700hq",16,ssd,1,0,Nvidia," GeForce GTX 1050",windows,2.06,127819,3840,2160,no,no,"4k ultra hd",yes
+640,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050M",windows,2.50,59088,1920,1080,yes,no,"full hd",no
+641,HP,Notebook,17,amd,a-series,3.00,"amd a9-series 9420",8,hdd,1,0,AMD," Radeon R5",windows,2.60,27754,1600,900,no,no,other,no
+642,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.14,130536,1920,1080,yes,no,"full hd",no
+643,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050 Ti",na,2.50,62284,1920,1080,yes,no,"full hd",no
+644,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.40,23976,1366,768,no,no,other,no
+645,Lenovo,Notebook,14,intel,celeron,1.60,"dual core n3060",4,flash_storage,32,0,Intel," HD Graphics",windows,1.43,14599,1366,768,no,no,other,no
+646,Acer,Ultrabook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," Graphics 620",windows,1.80,48964,1920,1080,yes,no,"full hd",no
+647,Razer,Gaming,14,intel,core,2.80,"i7 7700hq",16,ssd,256,0,Nvidia," GeForce GTX 1060",windows,1.95,138475,1920,1080,no,no,"full hd",no
+648,Toshiba,Notebook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.20,64629,1920,1080,no,no,"full hd",no
+649,Lenovo,Ultrabook,12.5,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,84396,1920,1080,yes,no,"full hd",no
+650,Asus,Gaming,17.3,intel,core,2.70,"i7 6820hk",32,ssd,512,0,Nvidia," GeForce GTX 1080",windows,3.80,149131,1920,1080,yes,no,"full hd",no
+651,Acer,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",linux,2.40,37776,1920,1080,no,no,"full hd",no
+652,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",8,ssd,256,0,Intel," UHD Graphics 620",windows,1.20,77251,1920,1080,no,no,"full hd",no
+653,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.20,63499,1920,1080,no,no,"full hd",no
+654,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",na,1.86,19442,1366,768,no,no,other,no
+655,Toshiba,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,500,0,Intel," HD Graphics 620",windows,2.00,56690,1920,1080,yes,no,"full hd",no
+656,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",8,ssd,256,0,AMD," Radeon 530",windows,6.20,48964,1920,1080,no,no,"full hd",no
+657,Dell,Notebook,15.6,intel,core,1.80,"i7 8550u",16,hybrid,256,2,AMD," Radeon 530",windows,2.20,60473,1920,1080,no,no,"full hd",no
+658,Lenovo,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 960",windows,3.31,63723,1920,1080,yes,no,"full hd",no
+659,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",32,hybrid,512,1,Nvidia," GeForce GTX 1070",windows,4.42,167692,3840,2160,yes,no,"4k ultra hd",no
+660,Dell,Notebook,14,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.56,65481,1920,1080,no,no,"full hd",no
+661,Lenovo,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,500,0,Intel," HD Graphics 500",windows,2.20,22324,1366,768,no,no,other,no
+662,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.20,28505,1920,1080,no,no,"full hd",no
+663,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",6,hdd,1,0,AMD," Radeon R5 M430",windows,2.04,28718,1920,1080,no,no,other,no
+664,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.70,79215,1920,1080,no,no,"full hd",no
+665,Toshiba,Notebook,15.6,intel,core,2.10,"i3 6100u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.10,26533,1366,768,no,no,other,no
+667,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,AMD," Radeon 530",windows,2.10,39694,1920,1080,no,no,"full hd",no
+668,Toshiba,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.00,67026,1920,1080,yes,no,"full hd",no
+669,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",linux,2.10,21951,1366,768,no,no,other,no
+670,Microsoft,Ultrabook,13.5,intel,core,2.80,"i7 7600u",8,ssd,256,0,Intel," Iris Plus Graphics 640",windows,1.25,99519,2256,1504,no,no,other,yes
+671,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hybrid,128,1,AMD," Radeon R5 M430",windows,1.90,43580,1920,1080,no,no,"full hd",no
+672,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.30,55092,1920,1080,yes,no,"full hd",yes
+673,Lenovo,Notebook,35.6,amd,e-series,2.20,e2-9000,4,ssd,128,0,AMD," Radeon R2 Graphics",windows,2.20,18595,1366,768,no,no,other,no
+674,HP,"2 in 1 Convertible",14,intel,core,2.40,"i3 7100u",4,ssd,128,0,Nvidia," GeForce 940MX",windows,1.63,37243,1920,1080,yes,no,"full hd",yes
+675,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050",windows,2.40,68944,1920,1080,no,no,"full hd",no
+676,Asus,Ultrabook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.10,60473,1920,1080,no,no,"full hd",no
+677,HP,"2 in 1 Convertible",11.6,intel,celeron,1.10,"dual core n3350",8,flash_storage,64,0,Intel," HD Graphics 500",chrome,1.40,26374,1366,768,no,no,other,yes
+678,LG,Ultrabook,15.6,intel,core,1.80,"i7 8550u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.09,122491,1920,1080,yes,no,"full hd",no
+679,Acer,Gaming,15.6,intel,core,2.50,"i5 7300hq",16,ssd,256,0,Nvidia," GeForce GTX 1050 Ti",windows,2.50,69211,1920,1080,no,no,"full hd",no
+680,MSI,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.20,53168,1920,1080,no,no,"full hd",no
+681,Asus,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,ssd,128,0,Intel," HD Graphics 500",windows,1.86,22324,1366,768,no,no,other,no
+682,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",16,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,3.21,109277,1920,1080,no,no,"full hd",no
+683,HP,Notebook,17.3,intel,core,2.00,"i3 6006u",4,ssd,256,0,AMD," Radeon R5 520",windows,2.50,37243,1920,1080,yes,no,"full hd",no
+684,Lenovo,"2 in 1 Convertible",13.3,intel,core,1.80,"i7 8550u",8,ssd,512,0,Intel," UHD Graphics 620",windows,1.19,79867,1920,1080,yes,no,"full hd",yes
+685,Dell,Gaming,15.6,intel,core,2.90,"i7 7820hk",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,3.49,149917,1920,1080,no,no,"full hd",no
+686,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,AMD," Radeon 520",windows,1.86,32640,1366,768,no,no,other,no
+687,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M430",windows,2.20,29073,1366,768,no,no,other,no
+688,HP,Notebook,17.3,amd,a-series,2.40,"amd a10-series 9600p",6,hdd,2,0,AMD," Radeon R7 M440",windows,2.65,30316,1920,1080,yes,no,"full hd",no
+689,Lenovo,Notebook,15.6,intel,celeron,1.60,"dual core 3855u",4,hdd,500,0,Intel," HD Graphics 510",windows,2.10,16943,1366,768,no,no,other,no
+690,Acer,Notebook,14,intel,celeron,1.60,"dual core 3855u",4,flash_storage,32,0,Intel," HD Graphics 510",chrome,1.45,19980,1366,768,no,no,other,no
+691,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.70,37243,1920,1080,no,no,"full hd",no
+692,HP,Workstation,17.3,intel,core,2.80,"i7 7700hq",8,hdd,500,0,Nvidia," Quadro M1200",windows,3.14,101658,1920,1080,no,no,"full hd",no
+693,Lenovo,"2 in 1 Convertible",14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.42,137995,2560,1440,no,no,other,yes
+694,Toshiba,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.50,51841,1920,1080,yes,no,"full hd",no
+695,Acer,Netbook,11.6,intel,celeron,1.60,"dual core n3050",4,flash_storage,32,0,Intel," HD Graphics",windows,1.40,14332,1366,768,no,no,other,no
+696,Lenovo,"2 in 1 Convertible",14,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.38,93187,1920,1080,no,no,"full hd",yes
+697,Asus,"2 in 1 Convertible",12.5,intel,core,0.90,"m m3-6y30",4,flash_storage,64,0,Intel," HD Graphics 515",chrome,1.20,35644,1920,1080,no,no,"full hd",yes
+698,Toshiba,Ultrabook,13.3,intel,core,2.50,"i7 6500u",16,ssd,512,0,Intel," HD Graphics 520",windows,1.36,100007,1920,1080,no,no,"full hd",yes
+700,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.56,43636,1920,1080,no,no,"full hd",no
+701,Lenovo,Notebook,15.6,amd,a-series,2.90,"amd a9-series 9420",4,ssd,256,0,AMD," Radeon 530",windows,2.20,21259,1920,1080,no,no,"full hd",no
+702,Lenovo,Notebook,15.6,amd,a-series,3.60,"amd a12-series 9720p",8,hdd,1,0,AMD," Radeon R7",windows,2.20,22857,1366,768,no,no,other,no
+703,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,1,Intel," HD Graphics 620",windows,2.10,33111,1920,1080,no,no,"full hd",no
+704,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",na,1.90,23976,1366,768,no,no,other,no
+705,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.18,42358,1920,1080,no,no,"full hd",no
+706,Acer,"2 in 1 Convertible",13.3,intel,core,1.60,"i5 8250u",1,ssd,256,0,Intel," UHD Graphics 620",windows,1.60,53227,1920,1080,yes,no,"full hd",yes
+707,Lenovo,Workstation,15.6,intel,core,2.50,"i7 6500u",16,ssd,512,0,Nvidia," Quadro M520M",windows,2.18,98834,1920,1080,no,no,"full hd",no
+708,Lenovo,Notebook,14,intel,core,2.30,"i5 6300hq",8,ssd,256,0,Intel," HD Graphics 520",windows,1.80,63456,1920,1080,no,no,"full hd",no
+709,HP,Notebook,17.3,amd,a-series,2.50,"amd a10-series 9620p",6,hdd,2,0,AMD," Radeon 530",windows,2.71,34899,1920,1080,yes,no,"full hd",no
+710,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.50,66547,1920,1080,yes,no,"full hd",no
+711,Dell,Notebook,14,intel,core,2.80,"i5 7440hq",8,ssd,256,0,Nvidia," GeForce 930MX",linux,1.64,58022,1920,1080,no,no,"full hd",no
+712,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",linux,1.98,38681,1920,1080,no,no,"full hd",no
+713,Asus,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.50,15877,1920,1080,no,no,"full hd",no
+714,Dell,Notebook,15.6,intel,core,2.60,"i5 7300u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.93,76012,1920,1080,no,no,"full hd",no
+715,Lenovo,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 920MX",windows,1.87,45665,1920,1080,yes,no,"full hd",no
+716,Dell,Notebook,15.6,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.90,62817,1920,1080,no,no,"full hd",no
+717,Lenovo,Notebook,15.6,amd,a-series,2.00,"amd a6-series 7310",4,hdd,500,0,AMD," Radeon R4",windows,2.19,15877,1366,768,no,no,other,no
+718,Mediacom,Notebook,14,intel,atom,1.92,z8350,4,hdd,32,0,Intel," HD Graphics 400",windows,1.40,14119,1920,1200,yes,no,"full hd",no
+719,HP,Notebook,17.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,2.63,63936,1920,1080,no,no,"full hd",no
+720,Lenovo,Ultrabook,14,intel,core,2.50,"i7 6500u",64,ssd,512,0,Intel," HD Graphics 520",windows,1.17,89864,2560,1440,yes,no,"quad hd",no
+721,HP,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.58,44574,1366,768,yes,no,other,yes
+722,Lenovo,Ultrabook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.32,79867,1920,1080,yes,no,"full hd",no
+723,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",32,hybrid,1,1,Nvidia," GeForce GTX 1070",windows,4.36,194973,3840,2160,no,no,"4k ultra hd",no
+724,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.70,71847,1920,1080,no,no,"full hd",no
+725,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics 620",na,1.90,26102,1366,768,no,no,other,no
+727,Dell,"2 in 1 Convertible",13.3,intel,core,2.40,"i3 7100u",4,hdd,1,0,Intel," HD Graphics 620",windows,1.71,34579,1920,1080,no,no,"full hd",yes
+728,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,AMD," Radeon R7 M445",linux,2.32,31410,1366,768,no,no,other,no
+729,HP,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",4,hdd,1,0,AMD," Radeon 520",windows,2.10,26054,1920,1080,no,no,"full hd",no
+730,Acer,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,4.20,103097,1920,1080,yes,no,"full hd",no
+731,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",12,hdd,1,0,Intel," HD Graphics 620",windows,2.25,34579,1366,768,no,no,other,no
+732,HP,Notebook,15.6,amd,a-series,3.00,"amd a9-series a9-9420",6,hybrid,128,1,AMD," Radeon 520",windows,2.10,34632,1920,1080,no,no,"full hd",no
+733,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.40,29784,1366,768,no,no,other,no
+734,Lenovo,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.44,51149,1920,1080,yes,no,"full hd",no
+735,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",4,hdd,1,0,Intel," HD Graphics 620",windows,1.85,41505,1920,1080,no,no,"full hd",no
+736,HP,Workstation,15.6,intel,core,2.80,"i7 7700hq",16,ssd,256,0,Nvidia," Quadro M2200",windows,2.60,128884,1920,1080,no,no,"full hd",no
+737,Dell,"2 in 1 Convertible",13.3,intel,core,1.60,"i5 8250u",8,hdd,1,0,Intel," UHD Graphics 620",windows,1.55,35112,1920,1080,no,no,"full hd",yes
+738,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,1.80,111594,1920,1080,no,no,"full hd",no
+739,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.40,21887,1366,768,no,no,other,no
+740,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hybrid,128,1,Nvidia," GeForce 940MX",windows,2.00,64309,1920,1080,no,no,"full hd",no
+741,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.00,35431,1366,768,no,no,other,no
+742,Toshiba,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.25,81785,1920,1080,yes,no,"full hd",yes
+743,Lenovo,"2 in 1 Convertible",14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.70,53227,1920,1080,no,no,"full hd",yes
+744,Lenovo,Workstation,15.6,intel,core,2.80,"i7 7600u",16,ssd,1,0,Nvidia," Quadro M520M",windows,2.50,175771,3840,2160,yes,no,"4k ultra hd",no
+745,Acer,Notebook,14,intel,celeron,1.60,"dual core n3060",2,flash_storage,32,0,Intel," HD Graphics 400",chrome,1.68,17582,1366,768,no,no,other,no
+746,Samsung,Ultrabook,13.3,intel,core,2.70,"i7 7500u",16,ssd,256,0,Intel," HD Graphics 620",windows,0.81,87859,1920,1080,no,no,"full hd",no
+748,Dell,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.60,60031,1366,768,no,no,other,no
+749,HP,Workstation,17.3,intel,xeon,2.90,"e3-1535m v5",16,ssd,256,0,Nvidia," Quadro M2000M",windows,3.00,233846,1920,1080,yes,no,"full hd",no
+750,Lenovo,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,ssd,128,0,Intel," HD Graphics 400",windows,1.40,25308,1366,768,no,no,other,yes
+751,HP,Notebook,15.6,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.84,101232,1920,1080,no,no,"full hd",no
+752,Asus,Notebook,15.6,intel,core,2.30,"i5 6300hq",4,hdd,1,0,Nvidia," GeForce GTX 950M",na,2.45,30849,1366,768,no,no,other,no
+754,Asus,Notebook,15.6,intel,core,2.70,"i7 7500u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.37,45283,1366,768,no,no,other,no
+755,Lenovo,"2 in 1 Convertible",13.3,intel,core,1.80,"i5 6260u",8,ssd,256,0,Intel," HD Graphics 540",windows,1.30,63883,3200,1800,yes,no,"quad hd",yes
+756,HP,Notebook,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,58555,1920,1080,yes,no,"full hd",no
+757,HP,Workstation,15.6,intel,core,2.60,"i7 6700hq",8,ssd,256,0,Nvidia," Quadro M1000M",windows,2.59,83170,1920,1080,no,no,"full hd",no
+758,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.42,152860,3840,2160,yes,no,"4k ultra hd",no
+759,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.10,31915,1366,768,no,no,other,no
+760,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.50,55837,1920,1080,yes,no,"full hd",no
+761,Dell,Ultrabook,12.5,intel,core,2.80,"i7 7600u",16,ssd,256,0,Intel," HD Graphics 620",windows,1.18,99048,1920,1080,no,no,"full hd",no
+762,Google,Ultrabook,12.3,intel,core,1.20,"i5 7y57",8,ssd,256,0,Intel," HD Graphics 615",chrome,1.10,83064,2400,1600,no,no,other,yes
+763,Asus,Ultrabook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.20,60153,3200,1800,yes,no,"quad hd",no
+764,Dell,Notebook,13.3,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.65,45235,1366,768,no,no,other,no
+765,Acer,Notebook,13.3,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.60,34898,1366,768,no,no,other,no
+766,Asus,Notebook,17.3,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Nvidia," GeForce 920MX",windows,2.80,25060,1366,768,no,no,other,no
+767,Dell,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.72,58555,3840,2160,yes,no,"4k ultra hd",yes
+768,Samsung,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.31,85195,1920,1080,no,no,"full hd",yes
+769,Acer,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Intel," HD Graphics 505",linux,2.10,15877,1366,768,no,no,other,no
+770,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",16,NULL,NULL,0,AMD," Radeon R7 M445",windows,2.30,62938,1920,1080,no,no,"full hd",no
+771,Samsung,"2 in 1 Convertible",15,intel,core,2.70,"i7 7500u",16,ssd,256,0,AMD," Radeon 540",windows,1.71,95851,1920,1080,no,no,"full hd",yes
+772,Toshiba,Notebook,14,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.75,54346,1366,768,yes,no,other,no
+773,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.62,58555,1920,1080,no,no,"full hd",no
+775,Asus,"2 in 1 Convertible",15.6,intel,core,2.70,"i7 7500u",12,hdd,2,0,Nvidia," GeForce 940MX",windows,2.30,44702,1920,1080,no,no,"full hd",yes
+776,Lenovo,Notebook,15.6,intel,core,2.70,"i7 6820hq",16,ssd,512,0,Nvidia," Quadro M2000M",windows,2.50,126274,3840,2160,no,no,"4k ultra hd",no
+777,Acer,Notebook,14,intel,core,2.40,"i3 7100u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.80,33886,1920,1080,yes,no,"full hd",no
+778,Razer,Gaming,14,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1060",windows,1.95,154459,1920,1080,no,no,"full hd",no
+779,Asus,Notebook,15.6,intel,pentium,1.10,"dual core n4200",8,ssd,128,0,Intel," HD Graphics 505",windows,2.00,31004,1920,1080,no,no,other,no
+780,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",32,hybrid,1,1,Nvidia," GeForce GTX 1070M",windows,4.42,191211,1920,1080,yes,no,"full hd",no
+781,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.30,125208,1920,1080,yes,no,"full hd",no
+782,Toshiba,Ultrabook,14,intel,core,2.60,"i7 6600u",16,ssd,512,0,Nvidia," GeForce 930M",windows,1.47,93986,1920,1080,yes,no,"full hd",no
+783,Lenovo,Notebook,15.6,intel,celeron,1.60,"quad core n3710",8,hdd,1,0,Intel," HD Graphics 405",na,2.20,17529,1366,768,no,no,other,no
+784,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.70,122491,1920,1080,no,no,"full hd",no
+785,MSI,Gaming,14,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,1.60,100752,1920,1080,yes,no,"full hd",no
+786,MSI,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,58022,1920,1080,no,no,"full hd",no
+787,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",4,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.40,53227,1920,1080,yes,no,"full hd",no
+788,Acer,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,4.20,122491,1920,1080,yes,no,"full hd",no
+789,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.62,52481,1920,1080,no,no,"full hd",no
+790,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX1060",windows,2.24,71342,1920,1080,no,no,"full hd",no
+791,Vero,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.22,10811,1920,1080,no,no,other,no
+792,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.37,104962,1920,1080,yes,no,"full hd",yes
+793,Lenovo,"2 in 1 Convertible",15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,AMD," Radeon R7 M460",windows,2.08,51096,1920,1080,no,no,"full hd",yes
+794,Apple,Ultrabook,12,intel,core,1.20,m,8,flash_storage,512,0,Intel," HD Graphics 5300",mac,0.92,62071,2304,1440,yes,yes,other,no
+795,Lenovo,"2 in 1 Convertible",14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.42,124142,2560,1440,yes,no,other,yes
+796,Asus,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.63,15931,1366,768,no,no,other,no
+797,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620",windows,1.95,43157,1366,768,no,no,other,no
+798,Lenovo,"2 in 1 Convertible",13.9,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.38,71875,1920,1080,yes,no,"full hd",yes
+799,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",8,ssd,256,0,AMD," Radeon R5 M420X",windows,2.00,39374,1920,1080,no,no,"full hd",no
+800,HP,Workstation,15.6,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," Quadro M2200",windows,3.14,110018,1920,1080,no,no,"full hd",no
+801,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.37,58555,1920,1080,no,no,"full hd",no
+802,Dell,Ultrabook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.29,79867,1920,1080,no,no,"full hd",no
+803,Dell,Notebook,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.06,93187,3840,2160,no,no,"4k ultra hd",yes
+804,Dell,Netbook,11.6,intel,pentium,1.10,"quad core n4200",4,ssd,128,0,Intel," HD Graphics 505",windows,1.63,39640,1366,768,no,no,other,no
+805,HP,Netbook,12.5,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.26,74006,1366,768,no,no,other,no
+806,Toshiba,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.10,41558,1366,768,no,no,other,no
+807,HP,Notebook,15.6,amd,a-series,2.50,"amd a12-series 9700p",8,hdd,2,0,AMD," Radeon R7 Graphics",windows,2.04,33513,1366,768,no,no,other,no
+808,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050 Ti",windows,2.62,89457,3840,2160,no,no,"4k ultra hd",no
+809,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Nvidia," GeForce 920M",windows,2.40,32448,1920,1080,no,no,"full hd",no
+810,HP,Gaming,17.3,intel,core,2.80,"i7 7700hq",12,hdd,1,0,AMD," Radeon RX 580",windows,3.74,93187,1920,1080,yes,no,"full hd",no
+811,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,512,1,Nvidia," GeForce GTX 1070",windows,2.90,128671,1920,1080,no,no,"full hd",no
+812,Samsung,Ultrabook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,0.81,79867,1920,1080,no,no,"full hd",no
+813,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce GT 940MX",windows,1.98,51202,1920,1080,no,no,"full hd",no
+814,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,AMD," Radeon R5 M420",windows,2.18,42081,1920,1080,no,no,"full hd",no
+815,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.32,99048,1920,1080,no,no,"full hd",no
+816,Razer,Ultrabook,12.5,intel,core,2.50,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.29,95851,3840,2160,yes,no,"4k ultra hd",yes
+817,HP,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,16,0,Intel," HD Graphics 400",chrome,1.23,20513,1366,768,no,no,other,no
+818,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,4.36,133467,1920,1080,yes,no,"full hd",no
+819,Dell,Notebook,14,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.76,40226,1366,768,no,no,other,no
+820,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.10,26102,1366,768,no,no,other,no
+821,Toshiba,Ultrabook,14,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.25,58075,1366,768,no,no,other,no
+822,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.13,133147,1920,1080,yes,no,"full hd",no
+823,MSI,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,ssd,256,0,Nvidia," GeForce GTX 1050",windows,2.40,63883,1920,1080,no,no,"full hd",no
+824,Lenovo,Ultrabook,14,intel,core,2.50,"i5 7200u",8,flash_storage,256,0,Intel," HD Graphics 620",windows,1.13,99900,1920,1080,yes,no,"full hd",no
+825,Toshiba,Notebook,14,intel,pentium,2.10,"dual core 4405u",4,ssd,128,0,Intel," HD Graphics 510",windows,1.75,26587,1366,768,no,no,other,no
+826,Asus,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.10,72354,1920,1080,no,no,"full hd",yes
+827,Dell,Notebook,14,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.76,31169,1366,768,no,no,other,no
+828,Acer,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,32,0,Intel," HD Graphics 400",chrome,1.35,18914,1366,768,yes,no,other,no
+829,Acer,Notebook,14,intel,core,2.40,"i3 7100u",8,ssd,128,0,Intel," HD Graphics 620",windows,1.50,32980,1920,1080,yes,no,"full hd",no
+830,Razer,Gaming,17.3,intel,core,2.90,"i7 7820hk",32,ssd,512,0,Nvidia," GeForce GTX 1080",windows,3.49,292987,3840,2160,no,no,"4k ultra hd",yes
+831,Lenovo,Ultrabook,14,intel,core,2.60,"i7 6600u",16,ssd,512,0,Intel," HD Graphics 520",windows,1.10,111835,2560,1440,yes,no,"quad hd",no
+832,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Nvidia," GeForce 920",linux,2.10,27652,1920,1080,no,no,"full hd",no
+833,Lenovo,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.70,63190,1920,1080,no,no,"full hd",no
+834,Lenovo,Notebook,14,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.32,87912,1920,1080,yes,no,"full hd",no
+835,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,3.21,147832,1920,1080,no,no,"full hd",no
+836,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.90,128884,1920,1080,no,no,"full hd",no
+837,Toshiba,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.00,35644,1366,768,no,no,other,no
+838,Lenovo,Notebook,14,intel,celeron,1.60,"quad core n3160",4,flash_storage,16,0,Intel," HD Graphics 400",chrome,1.50,17316,1366,768,no,no,other,no
+839,Asus,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,128,0,Intel," HD Graphics 620",windows,2.30,31435,1920,1080,no,no,"full hd",no
+840,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,512,1,Nvidia," GeForce GTX 1060",windows,2.73,95851,1920,1080,no,no,"full hd",no
+841,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",32,hybrid,512,1,Nvidia," GeForce GTX 1070",windows,4.42,163724,1920,1080,yes,no,"full hd",no
+842,HP,Notebook,17.3,intel,core,2.50,"i5 7200u",8,hdd,1,0,Nvidia," GeForce 930MX",windows,2.63,48485,1600,900,no,no,other,no
+843,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620",windows,2.18,38041,1366,768,no,no,other,no
+844,HP,Ultrabook,14,intel,core,2.50,"i7 6500u",8,ssd,512,0,Intel," HD Graphics 520",windows,1.54,99634,1920,1080,no,no,"full hd",no
+845,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",4,ssd,256,0,AMD," Radeon R5 M420",windows,2.18,39374,1920,1080,no,no,"full hd",no
+846,HP,"2 in 1 Convertible",11.6,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",chrome,1.40,32767,1366,768,no,no,other,yes
+847,Asus,Ultrabook,13.3,intel,core,2.30,"i5 6200u",8,ssd,512,0,Nvidia," GeForce 940M",windows,1.45,54665,1920,1080,yes,no,"full hd",no
+848,HP,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.28,121319,1920,1080,no,no,"full hd",yes
+849,HP,Ultrabook,14,intel,core,2.50,"i7 6500u",8,ssd,512,0,Intel," HD Graphics 520",windows,1.54,78215,1920,1080,no,no,"full hd",no
+850,HP,Notebook,15.6,intel,celeron,1.60,"dual core n3060",4,ssd,128,0,Intel," HD Graphics 400",na,1.86,15931,1366,768,no,no,other,no
+851,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.10,101179,1920,1080,no,no,"full hd",no
+852,Dell,Notebook,17.3,intel,core,2.70,"i7 7500u",8,hdd,1,0,AMD," Radeon R7 M445",linux,2.83,46087,1920,1080,no,no,"full hd",no
+853,Lenovo,Ultrabook,14,intel,core,2.80,"i7 7700hq",8,ssd,256,0,Nvidia," GeForce GT 940MX",windows,1.96,101392,1920,1080,yes,no,"full hd",no
+854,Asus,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce GTX 930MX",windows,2.30,41931,1920,1080,yes,no,"full hd",no
+855,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620",windows,1.90,50350,1920,1080,no,no,"full hd",no
+856,Asus,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Intel," HD Graphics 505",windows,2.00,23923,1366,768,no,no,other,no
+857,HP,"2 in 1 Convertible",13.3,intel,core,2.80,"i7 7600u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.28,136344,1920,1080,no,no,"full hd",yes
+858,Dell,Notebook,13.3,intel,core,2.30,"i5 6200u",8,hdd,1,0,Intel," HD Graphics 520",windows,1.62,34579,1920,1080,no,no,"full hd",yes
+859,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",na,2.20,24988,1920,1080,no,no,"full hd",no
+860,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.30,45323,1920,1080,yes,no,"full hd",no
+861,HP,Notebook,15.6,intel,core,2.60,"i5 7300u",8,ssd,256,0,AMD," Radeon R7 M465",windows,1.84,71875,1920,1080,no,no,"full hd",no
+862,Toshiba,Notebook,13.3,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.05,68465,1920,1080,no,no,"full hd",no
+863,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",na,2.50,54186,1920,1080,yes,no,"full hd",no
+864,Dell,Ultrabook,13.3,intel,core,2.50,"i7 7660u",16,ssd,512,0,Intel," Iris Plus Graphics 640",windows,1.29,119347,3200,1800,no,no,"quad hd",yes
+865,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.07,48485,1920,1080,no,no,"full hd",no
+866,Toshiba,Ultrabook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.20,58342,1366,768,no,no,other,no
+867,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.37,103896,1920,1080,yes,no,"full hd",yes
+868,Acer,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.56,48059,1920,1080,yes,no,"full hd",no
+869,Dell,Workstation,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," Quadro M620",windows,2.23,94732,1920,1080,no,no,"full hd",no
+870,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.38,56210,1366,768,no,no,other,no
+871,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M430",na,2.20,25521,1920,1080,no,no,"full hd",no
+872,Toshiba,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.00,73953,1920,1080,yes,no,"full hd",no
+873,Lenovo,Notebook,13.3,intel,core,2.40,"i3 7100u",4,ssd,180,0,Intel," HD Graphics 620",windows,1.44,39161,1920,1080,yes,no,"full hd",no
+874,Samsung,Ultrabook,15,intel,core,2.70,"i7 7500u",16,ssd,256,0,Nvidia," GeForce 940MX",windows,1.23,98515,1920,1080,no,no,"full hd",no
+875,Dell,Ultrabook,12.5,intel,core,2.80,"i7 7600u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.60,90043,1920,1080,no,no,"full hd",no
+876,Asus,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Intel," HD Graphics 505",linux,2.00,21258,1366,768,no,no,other,no
+877,Xiaomi,Ultrabook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,1.28,49817,1920,1080,yes,no,"full hd",no
+878,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hybrid,128,1,Nvidia," GeForce 940MX",windows,2.18,48618,1920,1080,no,no,"full hd",no
+879,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.04,44702,1920,1080,no,no,"full hd",no
+880,HP,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.28,90576,1920,1080,no,no,"full hd",yes
+881,HP,"2 in 1 Convertible",15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.30,36486,1366,768,no,no,other,yes
+882,Asus,Notebook,14.1,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.65,18541,1366,768,no,no,other,no
+883,Lenovo,Notebook,15.6,intel,core,2.50,"i7 6500u",8,hdd,1,0,Nvidia," GeForce 940MX",windows,2.20,35644,1920,1080,yes,no,"full hd",no
+884,Dell,Notebook,15.6,intel,pentium,1.60,"quad core n3710",4,hdd,500,0,Intel," HD Graphics",windows,2.20,19660,1366,768,no,no,other,no
+885,HP,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.28,95851,1920,1080,no,no,"full hd",yes
+886,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M420X",linux,2.18,24280,1366,768,no,no,other,no
+887,Asus,Gaming,17.3,intel,core,2.50,"i5 7300hq",12,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,72988,1920,1080,no,no,"full hd",no
+888,Acer,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,32,0,Intel," HD Graphics 400",chrome,1.25,15824,1366,768,yes,no,other,no
+889,Lenovo,Notebook,17.3,amd,a-series,2.20,"amd a4-series 7210",4,hdd,500,0,AMD," Radeon R3",windows,2.80,20193,1600,900,no,no,other,no
+890,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.95,67399,1920,1080,no,no,"full hd",no
+891,HP,"2 in 1 Convertible",13.3,intel,core,2.70,"i7 7500u",16,ssd,256,0,Intel," HD Graphics 620",windows,1.42,74539,3200,1800,no,no,"quad hd",yes
+892,Samsung,Ultrabook,15,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.17,90523,1920,1080,no,no,"full hd",no
+893,Lenovo,Ultrabook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.32,95851,1920,1080,yes,no,"full hd",no
+894,MSI,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,512,2,Nvidia," GeForce GTX 1060",windows,2.43,141139,3840,2160,yes,no,"4k ultra hd",no
+895,Toshiba,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.05,78588,1920,1080,no,no,"full hd",no
+896,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050Ti",linux,2.62,49497,1920,1080,no,no,"full hd",no
+897,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 930MX",windows,2.04,47952,1920,1080,no,no,"full hd",no
+898,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M420X",windows,2.18,32714,1366,768,no,no,other,no
+899,Dell,Notebook,15.6,intel,core,2.60,"i5 7300u",8,hdd,500,0,Intel," HD Graphics 620",windows,1.90,49817,1920,1080,no,no,"full hd",no
+900,Dell,"2 in 1 Convertible",13.3,intel,core,1.30,"i7 7y75",8,ssd,512,0,Intel," HD Graphics 615",windows,1.24,107258,3200,1800,no,no,"quad hd",yes
+901,Asus,Gaming,17.3,intel,core,2.70,"i7 6820hk",32,ssd,256,256,Nvidia," GeForce GTX 980M",windows,3.58,68145,1920,1080,yes,no,"full hd",no
+902,Dell,"2 in 1 Convertible",13.3,intel,core,1.30,"i7 7y75",16,ssd,256,0,Intel," HD Graphics 615",windows,1.22,87859,1920,1080,no,no,"full hd",yes
+903,Lenovo,Ultrabook,14,intel,core,2.70,"i7 7500u",8,flash_storage,256,0,Intel," HD Graphics 620",windows,1.13,109171,1920,1080,yes,no,"full hd",no
+904,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.95,104588,1920,1080,yes,no,"full hd",no
+905,LG,Ultrabook,15.6,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.08,111835,1920,1080,yes,no,"full hd",yes
+906,HP,Netbook,12.5,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.26,79014,1920,1080,no,no,"full hd",no
+907,Acer,Notebook,15.6,intel,celeron,1.50,"dual core 3205u",4,flash_storage,16,0,Intel," HD Graphics",chrome,2.20,19128,1920,1080,yes,no,"full hd",no
+908,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6300hq",8,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.60,42038,1920,1080,yes,no,"full hd",no
+909,LG,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,0.98,101179,1920,1080,yes,no,"full hd",yes
+910,Dell,Notebook,14,intel,core,2.80,"i5 7440hq",8,ssd,256,0,Intel," HD Graphics 620",windows,1.60,64202,1920,1080,no,no,"full hd",no
+911,HP,Ultrabook,12.5,intel,core,1.20,"m 6y75",8,ssd,240,0,Intel," HD Graphics 515",windows,1.09,165168,3840,2160,no,no,"4k ultra hd",yes
+912,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",6,ssd,256,0,Nvidia," GeForce 940MX",windows,2.20,42038,1920,1080,no,no,"full hd",no
+913,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,2.04,54292,1920,1080,no,no,"full hd",no
+914,Acer,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.40,26587,1920,1080,no,no,"full hd",no
+915,Lenovo,Notebook,13.3,intel,core,2.50,"i5 7200u",4,ssd,128,0,Intel," HD Graphics 620",windows,1.44,46940,1920,1080,no,no,"full hd",no
+916,HP,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.49,51149,1920,1080,no,no,"full hd",no
+917,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.70,85195,1920,1080,no,no,"full hd",no
+918,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.60,71875,1920,1080,no,no,"full hd",no
+919,MSI,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,59669,1920,1080,no,no,"full hd",no
+920,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,AMD," Radeon R5 M420",windows,2.18,36496,1366,768,no,no,other,no
+921,HP,Ultrabook,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,AMD," Radeon R7 M365X",windows,1.84,69104,1920,1080,no,no,"full hd",no
+924,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.37,97236,1920,1080,yes,no,"full hd",yes
+925,Dell,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.95,38889,1366,768,no,no,other,no
+926,Lenovo,Ultrabook,12.5,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,87912,1920,1080,yes,no,"full hd",no
+927,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.31,62071,1920,1080,no,no,"full hd",no
+928,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.18,37725,1366,768,no,no,other,no
+929,HP,Notebook,14,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.95,61219,1366,768,no,no,other,no
+930,Lenovo,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,1,0,Intel," HD Graphics 505",windows,2.20,16464,1366,768,no,no,other,no
+931,HP,Ultrabook,12.5,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.26,84129,1920,1080,no,no,"full hd",no
+932,HP,Notebook,15.6,intel,celeron,1.60,"dual core n3060",4,hdd,1,0,Intel," HD Graphics 400",na,1.86,15393,1366,768,no,no,other,no
+933,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.20,"i7 6560u",16,ssd,1,0,Intel," Iris Graphics 540",windows,1.30,95851,3200,1800,yes,no,"quad hd",yes
+934,Toshiba,Notebook,14,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.47,58874,1920,1080,yes,no,"full hd",no
+935,HP,Netbook,12.5,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.26,88924,1920,1080,no,no,"full hd",no
+936,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,2.18,29762,1366,768,no,no,other,no
+937,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,63883,1920,1080,no,no,"full hd",no
+939,Dell,Gaming,17.3,intel,core,2.70,"i7 6820hk",16,hybrid,512,1,Nvidia," GeForce GTX 1080",windows,4.36,146946,2560,1440,no,no,other,no
+940,HP,Gaming,17.3,intel,core,2.30,"i5 6300hq",8,hybrid,128,1,Nvidia," GeForce GTX 965M",windows,2.75,74539,1920,1080,yes,no,"full hd",no
+941,Asus,Notebook,17.3,intel,pentium,1.60,"quad core n3710",4,hdd,1,0,Nvidia," GeForce 920MX",windows,2.80,28238,1600,900,no,no,other,no
+942,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.23,32980,1366,768,no,no,other,no
+943,Toshiba,Notebook,15.6,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.20,59620,1366,768,no,no,other,no
+944,Lenovo,"2 in 1 Convertible",11.3,intel,core,1.20,"m m7-6y75",8,ssd,256,0,Intel," HD Graphics 515",windows,1.10,69211,1920,1080,yes,no,"full hd",yes
+945,Lenovo,Gaming,15.6,amd,fx,2.10,8800p,16,hybrid,512,1,AMD," Radeon R9 M385",windows,2.50,53227,1920,1080,yes,no,"full hd",no
+946,Dell,Ultrabook,12.5,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics",windows,1.36,78439,1920,1080,no,no,"full hd",yes
+947,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 920MX",na,2.20,36497,1920,1080,no,no,"full hd",no
+948,Dell,Notebook,17.3,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R7 M445",windows,2.36,35112,1600,900,no,no,other,no
+949,Acer,Notebook,14,intel,celeron,1.60,"dual core n3060",4,flash_storage,32,0,Intel," HD Graphics 400",chrome,1.68,18595,1366,768,no,no,other,no
+950,HP,Workstation,15.6,intel,core,2.70,"i7 6820hq",8,ssd,8,0,Nvidia," Quadro M1000M",windows,2.00,119827,1920,1080,yes,no,"full hd",no
+951,Dell,Ultrabook,14,intel,core,2.80,"i7 7600u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,94572,1920,1080,no,no,"full hd",no
+952,Toshiba,Notebook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.20,77789,1920,1080,no,no,"full hd",no
+953,Asus,"2 in 1 Convertible",12.5,intel,core,1.20,"m m7-6y75",8,flash_storage,64,0,Intel," HD Graphics 515",chrome,1.20,61752,1920,1080,no,no,"full hd",no
+954,Lenovo,Ultrabook,14,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.70,79333,1920,1080,yes,no,"full hd",no
+955,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,512,1,Nvidia," GeForce GTX 1070",windows,4.36,168045,3840,2160,yes,no,"4k ultra hd",no
+956,Dell,"2 in 1 Convertible",13.3,intel,core,1.20,"i5 7y54",8,ssd,256,0,Intel," HD Graphics 615",windows,1.24,101179,1920,1080,no,no,"full hd",yes
+957,HP,"2 in 1 Convertible",11.6,intel,pentium,1.10,"quad core n4200",4,ssd,256,0,Intel," HD Graphics 505",windows,1.45,41292,1366,768,no,no,other,yes
+958,Dell,Ultrabook,13.3,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.30,67559,3200,1800,no,no,"quad hd",no
+959,Acer,"2 in 1 Convertible",11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,32,0,Intel," HD Graphics 400",chrome,1.25,20726,1366,768,yes,no,other,yes
+960,Toshiba,Notebook,13.3,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.20,81785,1920,1080,no,no,"full hd",no
+961,Lenovo,Ultrabook,12.5,intel,core,2.60,"i5 7300u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.36,93773,1920,1080,yes,no,"full hd",no
+962,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",12,hybrid,128,1,Nvidia," GeForce GTX 950M",windows,2.40,53760,1920,1080,no,no,"full hd",no
+963,Toshiba,Ultrabook,12.5,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.10,95371,1920,1080,no,no,"full hd",yes
+964,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Nvidia," GeForce 930MX",windows,2.04,45102,1366,768,no,no,other,no
+965,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M430",linux,2.25,24808,1366,768,no,no,other,no
+966,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.90,43956,1366,768,no,no,other,no
+967,HP,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.04,36497,1920,1080,no,no,"full hd",no
+968,Dell,Gaming,17.3,intel,core,2.80,"i7 7700hq",32,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.42,167779,1920,1080,yes,no,"full hd",no
+969,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",6,ssd,256,0,Nvidia," GeForce 920MX",windows,2.40,37030,1920,1080,no,no,"full hd",no
+970,Dell,"2 in 1 Convertible",13.3,intel,core,1.30,"i7 7y75",16,ssd,512,0,Intel," HD Graphics 615",windows,1.22,101179,3200,1800,no,no,"quad hd",yes
+971,Dell,Ultrabook,14,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.50,104588,2560,1440,no,no,other,yes
+972,Dell,Gaming,17.3,intel,core,2.60,"i7 6700hq",32,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.42,149184,1920,1080,no,no,"full hd",no
+973,Toshiba,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.95,62870,1920,1080,no,no,"full hd",no
+974,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.73,109219,1920,1080,no,no,"full hd",no
+975,HP,Notebook,15.6,intel,core,2.70,"i5 7200u",8,hybrid,128,1,Nvidia," GeForce 930MX",windows,2.04,52161,1920,1080,yes,no,"full hd",no
+976,Lenovo,Notebook,14,intel,core,2.30,"i5 6200u",4,hybrid,508,0,Intel," HD Graphics 520",windows,1.70,53387,1366,768,no,no,other,no
+977,Asus,"2 in 1 Convertible",15.6,intel,core,2.70,"i7 7500u",16,hybrid,512,2,Nvidia," GeForce GTX 950M",windows,2.30,95851,3840,2160,no,no,"4k ultra hd",yes
+979,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.99,93187,1920,1080,no,no,"full hd",no
+980,Dell,"2 in 1 Convertible",15.6,intel,core,2.70,"i7 7500u",12,ssd,512,0,Intel," HD Graphics 620",windows,2.19,69211,1920,1080,yes,no,"full hd",yes
+981,Toshiba,Notebook,13.3,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.20,63670,1920,1080,no,no,"full hd",no
+982,Lenovo,Notebook,15.6,amd,a-series,3.60,"amd a12-series 9720p",6,ssd,256,0,AMD," Radeon 530",windows,2.20,29251,1920,1080,no,no,"full hd",no
+983,Fujitsu,Notebook,15.6,intel,core,2.30,"i5 6200u",4,ssd,256,0,Intel," HD Graphics 520",windows,2.30,34579,1366,768,no,no,other,no
+984,Toshiba,Notebook,14,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.75,48751,1366,768,no,no,other,no
+985,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,AMD," Radeon R5 M430",windows,2.25,31915,1366,768,no,no,other,no
+986,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.04,42944,1920,1080,no,no,"full hd",no
+987,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.50,63350,1920,1080,yes,no,"full hd",no
+988,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,AMD," Radeon R7 M445",windows,2.36,39907,1366,768,no,no,other,no
+989,Dell,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,128,0,Intel," HD Graphics 620 ",windows,1.60,59620,1920,1080,no,no,"full hd",no
+990,HP,Netbook,12.5,intel,core,1.20,"m 6y75",8,ssd,512,0,Intel," HD Graphics 515",windows,0.97,101658,1920,1080,no,no,"full hd",no
+991,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hybrid,128,1,AMD," Radeon 520",windows,2.10,26587,1920,1080,no,no,"full hd",no
+992,Lenovo,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,ssd,128,0,Intel," HD Graphics 500",na,1.90,14419,1366,768,no,no,other,no
+993,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.30,71875,1920,1080,no,no,"full hd",no
+995,Asus,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.40,61272,3200,1800,no,no,"quad hd",no
+996,HP,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.11,71875,1920,1080,yes,no,"full hd",yes
+997,Acer,Notebook,15.6,intel,pentium,1.10,"quad core n4200",4,hdd,500,0,Intel," HD Graphics 505",windows,2.40,20246,1366,768,no,no,other,no
+998,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.50,95851,1920,1080,no,no,"full hd",no
+999,HP,Ultrabook,14,intel,core,2.70,"i7 7500u",8,ssd,512,0,Intel," HD Graphics 620",windows,1.48,111302,1920,1080,no,no,"full hd",no
+1000,Acer,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.70,67133,1920,1080,yes,no,"full hd",no
+1001,HP,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.34,63350,1920,1080,yes,no,"full hd",no
+1002,Dell,Notebook,15.6,intel,core,2.40,"i3 7100u",4,ssd,128,0,Intel," HD Graphics 620",windows,2.18,29144,1366,768,no,no,other,no
+1003,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.64,41505,1366,768,no,no,other,no
+1004,Toshiba,Notebook,13.3,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.20,63670,1920,1080,no,no,"full hd",no
+1005,HP,Notebook,14,intel,core,2.40,"i5 6300u",4,ssd,256,0,Intel," HD Graphics 520",windows,1.48,58607,1366,768,no,no,other,no
+1006,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.95,64202,1920,1080,no,no,"full hd",no
+1007,HP,Ultrabook,14,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.43,77203,1920,1080,no,no,"full hd",no
+1008,HP,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,1.64,55905,1920,1080,no,no,"full hd",no
+1009,HP,Notebook,14,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.64,36444,1366,768,no,no,other,no
+1010,Dell,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,1,0,Nvidia," GeForce GTX 1050",windows,2.65,50563,1920,1080,no,no,"full hd",no
+1011,HP,Ultrabook,12.5,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.26,81998,1920,1080,no,no,"full hd",no
+1012,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.48,84715,1920,1080,no,no,"full hd",no
+1013,HP,Ultrabook,14,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.54,100551,1920,1080,no,no,"full hd",no
+1014,HP,Notebook,13.3,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.49,42624,1366,768,no,no,other,no
+1015,Toshiba,Notebook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.50,64469,1366,768,no,no,other,no
+1016,HP,Notebook,15.6,intel,core,2.40,"i3 7100u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.04,41025,1366,768,no,no,other,no
+1017,Lenovo,Notebook,17.3,intel,core,2.70,"i7 6820hq",16,ssd,512,0,Nvidia," Quadro 3000M",windows,2.40,158135,3840,2160,yes,no,"4k ultra hd",no
+1018,Toshiba,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.47,79387,1920,1080,yes,no,"full hd",no
+1019,HP,Notebook,14,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.43,118761,1920,1080,no,no,"full hd",no
+1020,Dell,"2 in 1 Convertible",15.6,intel,core,2.30,"i3 6100u",4,hdd,1,0,Intel," HD Graphics 520",windows,2.08,42410,1920,1080,yes,no,"full hd",yes
+1021,Toshiba,Ultrabook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.20,84715,1920,1080,no,no,"full hd",no
+1022,HP,Notebook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.11,61219,1920,1080,yes,no,"full hd",no
+1023,HP,Notebook,14,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,1.64,63160,1920,1080,no,no,"full hd",no
+1024,Dell,Notebook,15.6,intel,core,2.40,"i5 6300u",8,hdd,500,0,Intel," HD Graphics 520",windows,2.09,55754,1920,1080,no,no,"full hd",no
+1025,HP,Ultrabook,12.5,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.26,83064,1366,768,no,no,other,no
+1026,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.31,63350,1366,768,no,no,other,no
+1027,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.95,56477,1366,768,no,no,other,no
+1028,Dell,Ultrabook,13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.29,86527,3200,1800,no,no,"quad hd",yes
+1029,HP,Notebook,17.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Nvidia," GeForce 930MX",windows,2.63,57542,1920,1080,no,no,"full hd",no
+1030,HP,Notebook,14,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,1.64,51841,1366,768,no,no,other,no
+1031,Acer,Notebook,15.6,amd,a-series,3.00,"amd a9-series 9420",6,hdd,1,0,AMD," Radeon R5",windows,2.10,21792,1366,768,no,no,other,no
+1032,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.70,63499,1920,1080,no,no,"full hd",no
+1033,HP,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.95,63670,1920,1080,no,no,"full hd",no
+1034,HP,Notebook,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.84,65481,1920,1080,no,no,"full hd",no
+1035,HP,Ultrabook,12.5,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.26,71875,1920,1080,no,no,"full hd",no
+1036,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.04,39534,1366,768,no,no,other,no
+1037,Toshiba,Ultrabook,14,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.47,91908,1920,1080,yes,no,"full hd",no
+1038,Dell,Notebook,15.6,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.09,56634,1920,1080,no,no,"full hd",no
+1039,HP,Notebook,14,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.64,53840,1920,1080,no,no,"full hd",no
+1040,Lenovo,"2 in 1 Convertible",15.6,intel,core,2.50,"i7 6500u",4,ssd,256,0,Intel," HD Graphics 520",windows,1.80,45128,1920,1080,yes,no,"full hd",yes
+1041,Vero,Notebook,14,intel,atom,1.44,x5-z8350,2,flash_storage,32,0,Intel," HD Graphics 400",windows,1.45,11231,1366,768,no,no,other,no
+1042,Toshiba,Notebook,15.6,intel,core,2.50,"i7 6500u",16,ssd,256,0,Nvidia," GeForce 930M",windows,2.40,75924,1920,1080,yes,no,"full hd",no
+1043,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.30,55923,1920,1080,no,no,"full hd",no
+1044,HP,Notebook,14,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.54,53280,1920,1080,no,no,"full hd",no
+1045,HP,Notebook,15.6,intel,core,2.40,"i5 6300u",8,hybrid,256,500,Intel," HD Graphics 520",windows,1.84,112066,1920,1080,no,no,"full hd",no
+1046,HP,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.43,78268,1920,1080,no,no,"full hd",no
+1047,MSI,Gaming,17.3,intel,core,2.70,"i7 6820hk",16,hybrid,256,1,Nvidia," GeForce GTX 980M",windows,3.78,82352,1920,1080,yes,no,"full hd",no
+1048,Lenovo,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 980M",windows,4.60,122011,1920,1080,yes,no,"full hd",no
+1049,Asus,Netbook,11.6,intel,celeron,1.60,"dual core n3060",4,flash_storage,16,0,Intel," HD Graphics 400",chrome,1.20,15339,1366,768,no,no,other,no
+1050,Lenovo,Notebook,14,intel,core,2.60,"i7 6600u",16,ssd,256,0,Intel," HD Graphics 520",windows,1.10,139594,2560,1440,yes,no,other,no
+1051,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 940MX",windows,1.91,52161,1920,1080,yes,no,"full hd",no
+1052,Dell,"2 in 1 Convertible",15.6,intel,core,2.70,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.30,58288,1920,1080,yes,no,"full hd",yes
+1053,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.04,52161,1366,768,no,no,other,no
+1054,Dell,Ultrabook,13.3,intel,core,2.70,"i7 7500u",16,ssd,1,0,Intel," HD Graphics 620",windows,1.20,120093,3200,1800,no,no,"quad hd",yes
+1055,HP,Notebook,15.6,intel,core,2.30,"i3 6100u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.31,37570,1366,768,no,no,other,no
+1056,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",na,1.96,26587,1366,768,no,no,other,no
+1057,Acer,Notebook,15.6,amd,a-series,2.20,"amd a8-series 7410",8,hdd,1,0,AMD," Radeon R5",windows,2.40,23923,1366,768,no,no,other,no
+1058,Dell,"2 in 1 Convertible",13.3,intel,core,2.70,"i7 7500u",12,ssd,256,0,Intel," HD Graphics 620",windows,1.60,69211,1920,1080,yes,no,"full hd",yes
+1059,MSI,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.94,96916,1920,1080,no,no,"full hd",no
+1061,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hdd,1,0,Nvidia," GeForce GTX 965M",na,4.00,53173,1920,1080,yes,no,"full hd",no
+1062,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics",windows,2.25,29784,1920,1080,no,no,"full hd",no
+1063,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",16,hdd,2,0,AMD," Radeon R7 M445",windows,2.32,52747,1920,1080,no,no,"full hd",no
+1064,MSI,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,1.80,102777,1920,1080,no,no,"full hd",no
+1065,Dell,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.29,77682,1920,1080,no,no,"full hd",no
+1066,Asus,Gaming,17.3,intel,core,2.70,"i7 6820hk",64,ssd,1,0,Nvidia," GeForce GTX 980 ",windows,3.58,211788,1920,1080,yes,no,"full hd",no
+1067,Dell,"2 in 1 Convertible",13.3,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.62,42518,1920,1080,no,no,"full hd",yes
+1068,Dell,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 970M",windows,3.21,70809,3840,2160,no,no,"4k ultra hd",no
+1069,Apple,Ultrabook,12,intel,core,1.10,m,8,flash_storage,256,0,Intel," HD Graphics 515",mac,0.92,69264,2304,1440,yes,yes,other,no
+1070,Dell,Notebook,15.6,intel,core,2.30,"i3 6100u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.06,25680,1366,768,no,no,other,no
+1071,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.31,63883,1366,768,no,no,other,no
+1072,HP,Ultrabook,12.5,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.26,63883,1920,1080,no,no,"full hd",no
+1073,HP,Notebook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.49,58075,1920,1080,no,no,"full hd",no
+1074,Lenovo,Ultrabook,12.5,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.30,91295,1920,1080,yes,no,"full hd",yes
+1075,Lenovo,Notebook,17.3,intel,core,2.30,"i5 6200u",8,hdd,1,0,AMD," Radeon R5 M330",windows,3.00,35112,1600,900,no,no,other,no
+1076,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6300hq",4,hdd,1,0,Nvidia," GeForce GTX 950M",windows,2.30,52055,1920,1080,yes,no,"full hd",no
+1077,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,3.78,133147,1920,1080,no,no,"full hd",no
+1078,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.10,28771,1366,768,no,no,other,no
+1079,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.31,50083,1920,1080,no,no,"full hd",no
+1080,Lenovo,Ultrabook,12.5,intel,core,1.20,"m 6y75",8,ssd,512,0,Intel," HD Graphics 515",windows,0.99,74539,2560,1440,yes,no,other,yes
+1081,Lenovo,Gaming,17.3,intel,core,2.70,"i7 6820hk",32,ssd,512,1,Nvidia," GeForce GTX 980M",windows,4.60,172627,1920,1080,yes,no,"full hd",no
+1082,Lenovo,"2 in 1 Convertible",10.1,intel,atom,1.44,x5-z8550,4,flash_storage,64,0,Intel," HD Graphics 400",windows,0.69,34433,1920,1200,yes,no,other,yes
+1083,HP,Ultrabook,13.3,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.30,109171,3840,2160,yes,no,"4k ultra hd",no
+1084,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.18,39960,1920,1080,no,no,"full hd",no
+1085,HP,Notebook,14,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.54,54931,1920,1080,no,no,"full hd",no
+1086,HP,Workstation,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,AMD," FirePro W4190M",windows,1.90,79654,1920,1080,no,no,"full hd",no
+1087,Lenovo,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,180,0,Intel," HD Graphics 520",windows,1.70,63883,1920,1080,no,no,"full hd",no
+1088,HP,Notebook,13.3,intel,pentium,1.50,"dual core 4405y",4,flash_storage,32,0,Intel," HD Graphics 515",chrome,1.29,32767,3200,1800,no,no,"quad hd",no
+1089,Acer,Notebook,15.6,amd,a-series,2.20,"amd a8-series 7410",4,hdd,500,0,AMD," Radeon R5",windows,2.40,20619,1366,768,no,no,other,no
+1090,Dell,Notebook,15.6,intel,pentium,1.60,"quad core n3700",4,hdd,500,0,Intel," HD Graphics",linux,2.20,20965,1366,768,no,no,other,no
+1091,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",na,1.86,18434,1366,768,no,no,other,no
+1092,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",8,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.70,85195,1920,1080,yes,no,"full hd",no
+1093,Dell,Ultrabook,13.3,intel,core,1.60,"i5 8250u",4,ssd,256,0,AMD," Radeon 530",windows,1.40,43602,1920,1080,yes,no,"full hd",no
+1094,HP,Netbook,12.5,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.40,85195,1366,768,no,no,other,no
+1095,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hybrid,256,1,Nvidia," GeForce GTX 950M",windows,2.40,42571,1920,1080,no,no,"full hd",no
+1096,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,AMD," Radeon R7 M445",windows,2.36,34035,1920,1080,no,no,"full hd",no
+1097,MSI,Gaming,17.3,intel,core,2.60,"i7 6700hq",8,ssd,256,0,Nvidia," GeForce GTX 965M",windows,2.60,85195,1920,1080,no,no,"full hd",no
+1098,HP,Notebook,15.6,intel,pentium,1.60,"quad core n3710",4,hdd,1,0,Intel," HD Graphics 405",windows,1.96,26640,1366,768,no,no,other,no
+1099,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 980M",windows,4.30,122491,1920,1080,yes,no,"full hd",no
+1100,Dell,Ultrabook,12.5,intel,core,2.30,"i3 6100u",4,hdd,500,0,Intel," HD Graphics 520",windows,1.50,60481,1366,768,no,no,other,no
+1101,Dell,Ultrabook,12.5,intel,core,2.30,"i3 6100u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.50,62176,1366,768,no,no,other,no
+1102,Acer,Notebook,15.6,intel,celeron,1.50,"dual core 3205u",4,ssd,16,0,Intel," HD Graphics",chrome,2.20,11136,1366,768,no,no,other,no
+1103,HP,Workstation,17.3,intel,core,2.60,"i7 6700hq",8,hdd,1,0,AMD," FirePro W6150M",windows,3.00,154459,1920,1080,yes,no,"full hd",no
+1104,Lenovo,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,ssd,512,0,Nvidia," GeForce GTX 1050 Ti",windows,2.40,63883,1920,1080,no,no,"full hd",no
+1105,Dell,Ultrabook,12.5,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.50,75290,1366,768,no,no,other,no
+1106,MSI,Gaming,17.3,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.90,80516,1920,1080,no,no,"full hd",no
+1107,Lenovo,"2 in 1 Convertible",15.6,intel,core,2.30,"i5 6200u",4,ssd,256,0,Intel," HD Graphics 520",windows,2.10,46194,1920,1080,yes,no,"full hd",yes
+1108,HP,Notebook,15.6,amd,a-series,2.50,"amd a6-series 9220",4,hdd,1,0,AMD," Radeon R4",windows,2.10,21205,1920,1080,no,no,"full hd",no
+1109,Asus,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.59,71342,1920,1080,yes,no,"full hd",no
+1110,HP,Notebook,13.3,intel,core,1.10,"m 6y54",8,ssd,256,0,Intel," HD Graphics 515",windows,1.16,90523,3200,1800,no,no,"quad hd",yes
+1111,Dell,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,AMD," Radeon R5 M315",windows,2.24,40980,1366,768,no,no,other,no
+1112,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,Intel," HD Graphics 520",windows,2.10,22857,1366,768,no,no,other,no
+1113,HP,Ultrabook,13.3,intel,core,2.50,"i7 6500u",8,ssd,512,0,Intel," HD Graphics 520",windows,1.16,104908,1920,1080,no,no,"full hd",no
+1114,Lenovo,"2 in 1 Convertible",10.1,intel,atom,1.44,x5-z8550,4,flash_storage,64,0,Intel," HD Graphics 400",android,0.69,29251,1920,1200,yes,no,other,yes
+1115,Dell,Ultrabook,13.3,intel,core,2.40,"i7 7560u",8,ssd,256,0,Intel," Iris Plus Graphics 640",windows,1.23,73473,1920,1080,no,no,"full hd",no
+1116,Lenovo,Gaming,17.3,intel,core,2.70,"i7 6820hk",16,ssd,256,1,Nvidia," GeForce GTX 980M",windows,4.60,146519,1920,1080,yes,no,"full hd",no
+1117,Razer,Ultrabook,12.5,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.25,54825,3840,2160,no,no,"4k ultra hd",yes
+1118,Toshiba,Ultrabook,13.3,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.05,118601,1920,1080,no,no,"full hd",no
+1119,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,3.52,69929,1920,1080,no,no,"full hd",no
+1120,Vero,Notebook,13.3,intel,atom,1.44,x5-z8350,4,flash_storage,32,0,Intel," HD Graphics 400",windows,1.35,10443,1920,1080,no,no,"full hd",no
+1121,HP,Notebook,13.3,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.16,90043,1920,1080,no,no,"full hd",no
+1122,HP,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.43,80613,1920,1080,no,no,"full hd",no
+1123,Dell,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",linux,2.09,27899,1366,768,no,no,other,no
+1124,Asus,Notebook,15.6,intel,core,2.40,"i3 7100u",4,hdd,1,0,Intel," HD Graphics 620",windows,2.00,23177,1366,768,no,no,other,no
+1125,Lenovo,"2 in 1 Convertible",14,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.80,88924,1920,1080,yes,no,"full hd",yes
+1126,Lenovo,"2 in 1 Convertible",10.1,intel,atom,1.44,x5-z8550,4,flash_storage,64,0,Intel," HD Graphics 400",windows,0.69,25521,1920,1200,yes,no,other,yes
+1127,HP,Ultrabook,12.5,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.26,100966,1366,768,no,no,other,no
+1128,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",na,2.40,52694,1920,1080,yes,no,"full hd",no
+1129,HP,Gaming,17.3,intel,core,2.30,"i5 6300hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,3.35,60153,1920,1080,yes,no,"full hd",no
+1130,HP,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,2,0,Intel," HD Graphics 620",windows,2.04,33513,1366,768,no,no,other,no
+1131,Lenovo,"2 in 1 Convertible",14,intel,core,2.60,"i7 6600u",8,ssd,512,0,Nvidia," Quadro M500M",windows,1.80,109244,1920,1080,yes,no,"full hd",yes
+1132,Asus,Notebook,14,intel,celeron,1.10,"dual core n3350",4,flash_storage,32,0,Intel," HD Graphics 500",windows,1.50,14812,1366,768,no,no,other,no
+1133,HP,Ultrabook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.84,40067,1920,1080,no,no,"full hd",no
+1134,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Nvidia," GeForce 940MX",windows,2.23,32820,1920,1080,no,no,"full hd",no
+1135,Lenovo,Notebook,15.6,intel,core,2.50,"i7 6500u",16,hybrid,1,0,AMD," Radeon R7 M360",windows,2.50,58555,1920,1080,no,no,"full hd",no
+1136,HP,Workstation,17.3,intel,core,2.60,"i7 6700hq",8,ssd,256,0,Nvidia," Quadro M3000M",windows,3.00,210424,1920,1080,yes,no,"full hd",no
+1137,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,hdd,1,0,AMD," Radeon R7 M445",windows,2.50,41772,1366,768,no,no,other,no
+1138,MSI,Gaming,17.3,intel,core,2.70,"i7 6820hq",16,hybrid,256,1,Nvidia," GeForce GTX 980M",windows,3.78,127819,1920,1080,no,no,"full hd",no
+1139,HP,Ultrabook,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.88,115709,1920,1080,no,no,"full hd",no
+1140,Lenovo,"2 in 1 Convertible",14,intel,core,2.60,"i7 6600u",16,ssd,512,0,Intel," HD Graphics 520",windows,2.80,130003,2560,1440,yes,no,other,yes
+1141,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.40,60888,1920,1080,no,no,"full hd",no
+1142,HP,"2 in 1 Convertible",13.3,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.48,86793,1920,1080,no,no,"full hd",yes
+1143,HP,Workstation,15.6,intel,core,2.60,"i7 6700hq",8,ssd,256,0,Nvidia," Quadro M1000M",windows,2.59,118761,1920,1080,yes,no,"full hd",no
+1144,HP,"2 in 1 Convertible",13.3,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.48,95851,2560,1440,no,no,other,yes
+1145,HP,Workstation,15.6,intel,core,2.60,"i7 6700hq",8,ssd,256,0,Nvidia," Quadro M1000M",windows,2.00,101179,1920,1080,no,no,"full hd",no
+1146,HP,Ultrabook,12.5,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.26,122381,1920,1080,no,no,"full hd",no
+1147,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce 940MX",windows,2.18,53807,1920,1080,no,no,"full hd",no
+1148,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.88,84129,1920,1080,no,no,"full hd",no
+1149,Lenovo,"2 in 1 Convertible",14,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.27,124622,2560,1440,yes,no,other,yes
+1150,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",na,1.90,18062,1366,768,no,no,other,no
+1151,HP,Notebook,15.6,amd,e-series,1.80,7110,4,hdd,500,0,AMD," Radeon R2 Graphics",windows,1.86,15824,1366,768,no,no,other,no
+1152,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",8,hdd,1,0,AMD," Radeon R5 M330",na,2.32,31915,1920,1080,no,no,"full hd",no
+1153,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050Ti",windows,2.62,63883,1920,1080,no,no,"full hd",no
+1154,Dell,Notebook,15.6,intel,core,2.30,"i5 6300hq",8,ssd,256,0,Nvidia," GeForce 960M",windows,2.04,119916,3840,2160,yes,no,"4k ultra hd",yes
+1155,HP,Notebook,15.6,amd,a-series,2.50,"amd a6-series a6-9220",4,ssd,256,0,AMD," Radeon 520",windows,1.91,25515,1920,1080,no,no,"full hd",no
+1156,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1050 Ti",windows,2.70,79536,1920,1080,no,no,"full hd",no
+1157,Lenovo,Ultrabook,14,intel,core,2.60,"i7 6600u",12,ssd,512,0,Intel," HD Graphics 520",windows,1.40,122491,1920,1080,no,no,"full hd",no
+1158,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",8,hybrid,1,0,AMD," Radeon R5 M330",windows,2.50,42011,1920,1080,no,no,"full hd",no
+1159,HP,"2 in 1 Convertible",13.3,intel,core,2.60,"i7 6600u",8,ssd,512,0,Intel," HD Graphics 520",windows,1.48,108744,2560,1440,no,no,other,yes
+1160,Lenovo,Ultrabook,14,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.70,79867,1920,1080,no,no,"full hd",no
+1161,MSI,Gaming,14,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 970M",windows,1.70,94252,1920,1080,no,no,"full hd",no
+1162,HP,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.62,47899,1920,1080,yes,no,"full hd",no
+1163,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",8,hdd,1,0,Intel," HD Graphics 520",windows,2.20,24456,1366,768,no,no,other,no
+1164,HP,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",na,2.10,25414,1366,768,no,no,other,no
+1165,Dell,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050 Ti",windows,2.62,79813,3840,2160,no,no,"4k ultra hd",no
+1166,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.95,74059,1920,1080,yes,no,"full hd",no
+1167,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Nvidia," GeForce 920MX ",windows,2.20,24935,1920,1080,no,no,"full hd",no
+1168,HP,Notebook,14,intel,celeron,1.60,"dual core n3060",2,flash_storage,32,0,Intel," HD Graphics 400",windows,1.44,13267,1366,768,no,no,other,no
+1169,MSI,Gaming,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.20,44702,1920,1080,yes,no,"full hd",no
+1170,HP,Notebook,15.6,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.96,36177,1920,1080,no,no,"full hd",no
+1171,HP,Notebook,15.6,intel,core,1.80,"i7 8550u",16,ssd,512,0,Intel," UHD Graphics 620",windows,2.10,61752,1920,1080,no,no,"full hd",no
+1172,Asus,Notebook,15.6,intel,celeron,1.60,"dual core n3050",4,hdd,500,0,Intel," HD Graphics",windows,2.20,19660,1366,768,no,no,other,no
+1173,Lenovo,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",na,2.10,21205,1366,768,no,no,other,no
+1174,Lenovo,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,Nvidia," GeForce 940MX",na,2.20,37776,1920,1080,no,no,"full hd",no
+1175,Asus,Notebook,14,intel,core,2.40,"i3 7100u",4,ssd,256,0,Intel," HD Graphics 620",windows,2.00,40972,1920,1080,no,no,"full hd",no
+1176,Lenovo,Notebook,15.6,intel,core,2.50,"i7 6500u",4,hybrid,1,0,Intel," HD Graphics 520",windows,2.32,43956,1920,1080,no,no,"full hd",no
+1177,Lenovo,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,ssd,512,0,Nvidia," GeForce GTX 960",windows,3.31,69530,1920,1080,yes,no,"full hd",no
+1178,MSI,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 970M",windows,1.91,114732,1920,1080,no,no,"full hd",no
+1179,HP,Notebook,15.6,intel,core,2.30,"i3 6100u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.07,34632,1366,768,no,no,other,no
+1180,Lenovo,"2 in 1 Convertible",14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.36,87219,2560,1440,yes,no,other,yes
+1181,Lenovo,Ultrabook,15.6,intel,core,2.70,"i7 7500u",6,ssd,256,0,Nvidia," GeForce 920M",windows,1.54,44276,1920,1080,no,no,"full hd",no
+1182,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,ssd,256,0,Nvidia," GeForce GT 940MX",linux,1.98,47686,1920,1080,no,no,"full hd",no
+1183,Acer,Notebook,15.6,intel,celeron,2.00,"dual core n3350",4,hdd,500,0,Intel," HD Graphics 500",windows,2.10,17742,1366,768,no,no,other,no
+1184,HP,Notebook,15.6,intel,core,2.60,"i7 6700hq",6,hdd,1,0,Nvidia," GeForce GTX 960M",windows,2.18,42571,1920,1080,yes,no,"full hd",no
+1185,Asus,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hybrid,256,1,Nvidia," GeForce GTX 960M",windows,2.59,48432,1920,1080,yes,no,"full hd",no
+1186,Dell,"2 in 1 Convertible",15.6,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,2.09,62817,1920,1080,no,no,"full hd",yes
+1187,Acer,Notebook,15.6,intel,core,2.50,"i5 7200u",4,ssd,256,0,Nvidia," GeForce 940MX",windows,2.23,36816,1920,1080,no,no,"full hd",no
+1188,Dell,Ultrabook,13.3,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",linux,1.23,58555,3200,1800,no,no,"quad hd",yes
+1189,Acer,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,4.20,138475,1920,1080,yes,no,"full hd",no
+1190,Lenovo,Gaming,15.6,intel,core,2.50,"i5 7300hq",8,hdd,1,0,Nvidia," GeForce GTX 1050",windows,2.40,43636,1920,1080,yes,no,"full hd",no
+1191,Samsung,"2 in 1 Convertible",12.3,other,other,2.00,"samsung cortex a72&a53",4,flash_storage,32,0,ARM," Mali T860 MP4",chrome,1.15,35112,2400,1600,yes,no,other,yes
+1192,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.86,25841,1366,768,no,no,other,no
+1193,Apple,Ultrabook,12,intel,core,1.10,m,8,flash_storage,256,0,Intel," HD Graphics 5300",mac,0.92,61965,2304,1440,yes,yes,other,no
+1194,Dell,"2 in 1 Convertible",13.3,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.60,63883,1920,1080,yes,no,"full hd",yes
+1195,HP,Notebook,15.6,intel,core,2.80,"i7 7700hq",12,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.21,70703,1920,1080,yes,no,"full hd",no
+1196,Lenovo,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,AMD," Radeon R5 M430",na,1.90,19607,1366,768,no,no,other,no
+1197,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,512,1,Nvidia," GeForce GTX 980M",windows,4.30,114552,1920,1080,yes,no,"full hd",no
+1198,Acer,Notebook,15.6,intel,celeron,2.00,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",linux,2.10,14492,1366,768,no,no,other,no
+1199,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.43,109165,1920,1080,no,no,"full hd",no
+1200,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,ssd,128,0,AMD," Radeon R7 M440",windows,2.30,26587,1366,768,no,no,other,no
+1201,Lenovo,Notebook,15.6,intel,core,2.50,"i7 6500u",8,hdd,500,0,Nvidia," GeForce 920MX",na,2.20,33513,1366,768,no,no,other,no
+1203,Dell,Ultrabook,13.3,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.20,142790,3200,1800,no,no,"quad hd",yes
+1204,Asus,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hdd,1,0,Nvidia," GeForce GTX 1060",windows,2.20,62284,1920,1080,no,no,"full hd",no
+1205,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,AMD," Radeon R7 M445",windows,2.36,47366,1920,1080,no,no,"full hd",no
+1206,HP,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.91,30849,1366,768,no,no,other,no
+1207,Lenovo,Notebook,15.6,amd,e-series,2.20,9000,4,hdd,500,0,AMD," Radeon R2 Graphics",windows,2.20,15931,1366,768,no,no,other,no
+1208,Acer,Notebook,17.3,intel,core,2.00,"i3 6006u",8,hdd,1,0,Nvidia," GeForce 940MX",windows,3.30,33513,1600,900,no,no,other,no
+1209,Asus,Gaming,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.20,130483,1920,1080,no,no,"full hd",no
+1210,Apple,Ultrabook,12,intel,core,1.20,m,8,flash_storage,512,0,Intel," HD Graphics 515",mac,0.92,68145,2304,1440,yes,yes,other,no
+1211,Asus,Notebook,15.6,intel,core,2.80,"i7 7700hq",16,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.20,93187,1920,1080,no,no,"full hd",no
+1212,MSI,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.43,103842,1920,1080,yes,no,"full hd",no
+1213,Dell,"2 in 1 Convertible",15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",windows,2.19,53227,1920,1080,yes,no,"full hd",yes
+1214,Asus,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.90,103843,1920,1080,no,no,"full hd",no
+1215,Acer,Netbook,11.6,intel,celeron,1.50,"dual core 3205u",2,ssd,32,0,Intel," HD Graphics",chrome,1.30,9271,1366,768,no,no,other,no
+1216,Acer,Notebook,17.3,intel,core,2.00,"i3 6006u",4,hdd,1,0,Nvidia," GeForce 940MX",windows,3.30,31861,1600,900,no,no,other,no
+1217,Lenovo,Notebook,17.3,intel,core,2.50,"i5 7200u",8,hdd,1,0,Intel," HD Graphics 620",na,2.80,28718,1600,900,no,no,other,no
+1218,Lenovo,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 960<U+039C>",windows,2.60,67772,1920,1080,yes,no,"full hd",no
+1219,Acer,"2 in 1 Convertible",14,intel,core,1.30,"i7 7y75",8,ssd,256,0,Intel," HD Graphics 615",windows,1.20,61219,1920,1080,yes,no,"full hd",yes
+1220,Lenovo,Notebook,15.6,intel,core,2.60,"i7 6600u",8,ssd,256,0,Intel," HD Graphics 520",windows,2.30,81465,1920,1080,yes,no,"full hd",no
+1221,MSI,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1060",windows,2.20,78647,1920,1080,no,no,"full hd",no
+1222,HP,Notebook,15.6,amd,a-series,2.70,"amd a12-series 9720p",6,hdd,1,0,AMD," Radeon 530",windows,2.10,28185,1920,1080,no,no,"full hd",no
+1223,Dell,Ultrabook,12.5,intel,core,2.40,"i5 6300u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.26,91288,1920,1080,no,no,"full hd",yes
+1224,Dell,"2 in 1 Convertible",15,intel,core,2.40,"i3 7100u",4,hdd,500,0,Intel," HD Graphics 620",windows,2.08,27120,1920,1080,no,no,"full hd",yes
+1225,Asus,Notebook,15.6,intel,pentium,1.60,"quad core n3710",4,hdd,1,0,Intel," HD Graphics 405",windows,2.65,16464,1366,768,no,no,other,no
+1226,Dell,Ultrabook,13.3,intel,core,2.70,"i7 7500u",8,ssd,256,0,Intel," HD Graphics 620",windows,1.29,78695,3200,1800,no,no,"quad hd",yes
+1227,Dell,Notebook,15.6,intel,core,2.50,"i5 7200u",4,hdd,1,0,Intel," HD Graphics 520",linux,2.18,27805,1366,768,no,no,other,no
+1228,Lenovo,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.60,54825,1920,1080,yes,no,"full hd",yes
+1229,MSI,Gaming,15.6,intel,core,2.80,"i7 7700hq",8,hybrid,128,1,Nvidia," GeForce GTX 1050",windows,2.20,61219,1920,1080,no,no,"full hd",no
+1230,Lenovo,Netbook,12.5,intel,core,2.50,"i7 6500u",16,ssd,512,0,Intel," HD Graphics 520",windows,1.30,87912,1920,1080,yes,no,"full hd",yes
+1231,Razer,Gaming,14,intel,core,2.80,"i7 7700hq",16,ssd,1,0,Nvidia," GeForce GTX 1060",windows,1.95,186427,1920,1080,no,no,"full hd",no
+1232,Dell,Notebook,15.6,intel,core,2.40,"i3 7100u",8,hdd,1,0,Intel," HD Graphics 620",windows,2.30,24989,1366,768,no,no,other,yes
+1233,MSI,Gaming,17.3,intel,core,2.80,"i7 7700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1060",windows,2.70,85141,1920,1080,no,no,"full hd",no
+1234,Apple,Ultrabook,11.6,intel,core,1.60,i5,4,flash_storage,256,0,Intel," HD Graphics 6000",mac,1.08,51096,1366,768,no,no,other,no
+1235,HP,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,1,0,Intel," HD Graphics 520",windows,2.10,25468,1920,1080,no,no,"full hd",no
+1236,HP,Ultrabook,14,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.54,117120,2560,1440,no,no,other,no
+1237,Dell,Notebook,15.6,intel,core,2.30,"i5 6200u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.24,39267,1366,768,no,no,other,no
+1238,MSI,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.30,62284,1920,1080,no,no,"full hd",no
+1239,Lenovo,Notebook,13.3,intel,core,2.70,"i7 7500u",16,ssd,512,0,Intel," HD Graphics 620",windows,1.40,79867,1920,1080,yes,no,"full hd",no
+1240,Lenovo,Notebook,15.6,amd,a-series,3.60,"amd a12-series 9720p",6,ssd,256,0,AMD," Radeon 530",windows,2.20,31839,1920,1080,no,no,"full hd",no
+1241,Asus,Ultrabook,13.3,intel,core,2.50,"i7 6500u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.45,68198,1920,1080,no,no,"full hd",no
+1242,Acer,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",linux,2.40,19277,1366,768,no,no,other,no
+1243,Dell,"2 in 1 Convertible",17.3,intel,core,2.70,"i7 7500u",16,ssd,512,0,Nvidia," GeForce 940MX",windows,2.77,95851,1920,1080,no,no,"full hd",yes
+1244,HP,Notebook,14,intel,core,2.30,"i5 6200u",4,ssd,256,0,Intel," HD Graphics 520",windows,1.54,58607,1920,1080,no,no,"full hd",no
+1246,Dell,Notebook,14,intel,core,2.50,"i5 7200u",4,hdd,500,0,Intel," HD Graphics 620",windows,1.60,46620,1366,768,no,no,other,no
+1247,Asus,Gaming,15.6,intel,core,2.60,"i7 6700hq",16,hybrid,256,1,Nvidia," GeForce GTX 1070",windows,2.34,123876,1920,1080,yes,no,"full hd",no
+1248,Lenovo,Notebook,15.6,intel,core,2.50,"i5 7200u",8,ssd,256,0,Intel," HD Graphics 620",na,2.30,30529,1920,1080,yes,no,"full hd",no
+1249,Dell,"2 in 1 Convertible",13.3,intel,core,1.20,"i5 7y54",8,ssd,256,0,Intel," HD Graphics 615",windows,1.24,96597,3200,1800,no,no,"quad hd",yes
+1250,Dell,Notebook,15.6,intel,pentium,1.60,"quad core n3710",4,hdd,500,0,Intel," HD Graphics",linux,2.20,17263,1366,768,no,no,other,no
+1251,HP,Notebook,15.6,amd,a-series,2.50,"amd a6-series 9220",4,hdd,500,0,AMD," Radeon R4 Graphics",windows,1.86,21259,1366,768,no,no,other,no
+1252,Lenovo,Notebook,15.6,intel,core,2.30,"i3 6100u",6,ssd,128,0,Nvidia," GeForce 920MX",windows,2.40,30316,1920,1080,no,no,"full hd",no
+1253,Lenovo,Notebook,14,intel,core,2.30,"i5 6200u",8,ssd,256,0,Intel," HD Graphics 520",windows,1.90,57116,1920,1080,yes,no,"full hd",no
+1254,Dell,Notebook,15.6,intel,pentium,1.60,"quad core n3700",4,hdd,500,0,Intel," HD Graphics",windows,2.20,23656,1366,768,no,no,other,no
+1255,Asus,Notebook,15.6,intel,celeron,1.10,"dual core n3350",4,hdd,1,0,Intel," HD Graphics 500",windows,2.00,18062,1366,768,no,no,other,no
+1256,Asus,Gaming,17.3,intel,core,2.60,"i7 6700hq",16,hybrid,128,1,Nvidia," GeForce GTX 970M",windows,4.00,101232,1920,1080,yes,no,"full hd",no
+1257,Dell,Notebook,15.6,intel,core,2.00,"i3 6006u",4,hdd,500,0,Intel," HD Graphics 520",windows,2.29,26107,1366,768,no,no,other,no
+1258,Lenovo,Notebook,15.6,intel,core,2.50,"i7 6500u",8,hybrid,1,0,AMD," Radeon R5 M330",windows,2.32,47686,1920,1080,no,no,"full hd",no
+1259,MSI,Gaming,15.6,intel,core,2.60,"i7 6700hq",8,hybrid,128,1,Nvidia," GeForce GTX 960M",windows,2.40,65481,1920,1080,no,no,"full hd",no
+1260,Lenovo,"2 in 1 Convertible",14,intel,core,2.30,"i5 6200u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.80,44383,1920,1080,no,no,"full hd",yes
+1261,Asus,Ultrabook,13.3,intel,core,0.90,"m 6y30",8,ssd,512,0,Intel," HD Graphics 515",windows,1.20,38841,1920,1080,yes,no,"full hd",no
+1262,Dell,Notebook,15.6,intel,core,2.40,"i3 7100u",6,hdd,1,0,Intel," HD Graphics 620",windows,2.30,24456,1366,768,no,no,other,no
+1263,Acer,Notebook,15.6,intel,celeron,1.60,"dual core n3060",4,hdd,500,0,Intel," HD Graphics 400",linux,2.40,15398,1366,768,no,no,other,no
+1264,Dell,Notebook,15.6,intel,celeron,1.60,"dual core n3050",2,hdd,500,0,Intel," HD Graphics",windows,2.20,20193,1366,768,no,no,other,no
+1265,Lenovo,Notebook,15.6,intel,core,2.60,"i7 6700hq",8,hdd,1,0,Nvidia," GeForce GTX 960M",windows,2.60,47899,1920,1080,yes,no,"full hd",no
+1266,HP,Notebook,15.6,amd,a-series,2.90,"amd a9-series 9410",6,hybrid,1,0,AMD," Radeon R7 M440",windows,2.04,29303,1920,1080,no,no,"full hd",no
+1267,Dell,Notebook,15.6,intel,core,2.70,"i7 7500u",8,hdd,1,0,AMD," Radeon R5 M430",linux,2.30,42943,1366,768,no,no,other,no
+1268,HP,Netbook,11.6,intel,celeron,1.60,"dual core n3060",2,flash_storage,32,0,Intel," HD Graphics 400",windows,1.17,11136,1366,768,no,no,other,no
+1269,Asus,Notebook,15.6,intel,core,2.50,"i7 6500u",4,hdd,500,0,Nvidia," GeForce 920M",windows,2.20,38379,1366,768,no,no,other,no
+1270,Lenovo,"2 in 1 Convertible",14,intel,core,2.50,"i7 6500u",4,ssd,128,0,Intel," HD Graphics 520",windows,1.80,33993,1920,1080,yes,no,"full hd",yes
+1271,Lenovo,"2 in 1 Convertible",13.3,intel,core,2.50,"i7 6500u",16,ssd,512,0,Intel," HD Graphics 520",windows,1.30,79867,3200,1800,yes,no,"quad hd",yes
+1272,Lenovo,Notebook,14,intel,celeron,1.60,"dual core n3050",2,flash_storage,64,0,Intel," HD Graphics",windows,1.50,12201,1366,768,no,no,other,no
+1273,HP,Notebook,15.6,intel,core,2.50,"i7 6500u",6,hdd,1,0,AMD," Radeon R5 M330",windows,2.19,40706,1366,768,no,no,other,no
